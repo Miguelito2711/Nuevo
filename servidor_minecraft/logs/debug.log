@@ -1540,3 +1540,7 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [09Aug2025 06:10:18.714] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [09Aug2025 06:13:52.390] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "6.0.0-beta.52": journeymap.server.mp.config
 [09Aug2025 06:15:18.730] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 06:20:18.721] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 06:25:18.709] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 06:30:18.707] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 06:30:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> fabio me piro

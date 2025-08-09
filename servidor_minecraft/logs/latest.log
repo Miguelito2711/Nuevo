@@ -263,3 +263,4 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [09Aug2025 06:08:13.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
 [09Aug2025 06:08:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
 [09Aug2025 06:13:52.390] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "6.0.0-beta.52": journeymap.server.mp.config
+[09Aug2025 06:30:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> fabio me piro
