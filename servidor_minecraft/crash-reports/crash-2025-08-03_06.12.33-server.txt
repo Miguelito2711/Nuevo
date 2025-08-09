@@ -1,0 +1,197 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 2025-08-03 06:12:33
+Description: Ticking entity
+
+com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2085) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:4017) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4040) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4989) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4996) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedPatchMap.matches(HashedPatchMap.java:55) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedStack$ActualItem.matches(HashedStack.java:51) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.RemoteSlot$Synchronized.matches(RemoteSlot.java:70) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.synchronizeSlotToRemote(AbstractContainerMenu.java:258) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:205) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:625) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:jade.mixins.json:ServerPlayerMixin from mod jade,pl:mixin:APP:glitchcore.neoforge.mixins.json:MixinServerPlayer from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:770) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.Level.guardEntityTick(Level.java:582) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:410) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:390) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1082) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:955) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:715) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {}
+Caused by: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.lambda$load$0(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23117!/:?] {}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:271) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer$1$1.load(ServerPlayer.java:266) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3574) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2316) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2189) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2079) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	... 20 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2085) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.get(LocalCache.java:4017) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4040) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4989) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at MC-BOOTSTRAP/com.google.common@33.3.1-jre/com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4996) ~[guava-33.3.1-jre.jar%2398!/:?] {}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedPatchMap.matches(HashedPatchMap.java:55) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.HashedStack$ActualItem.matches(HashedStack.java:51) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.RemoteSlot$Synchronized.matches(RemoteSlot.java:70) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.synchronizeSlotToRemote(AbstractContainerMenu.java:258) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.inventory.AbstractContainerMenu.broadcastChanges(AbstractContainerMenu.java:205) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerPlayer.tick(ServerPlayer.java:625) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:jade.mixins.json:ServerPlayerMixin from mod jade,pl:mixin:APP:glitchcore.neoforge.mixins.json:MixinServerPlayer from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:770) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.Level.guardEntityTick(Level.java:582) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:410) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:player (net.minecraft.server.level.ServerPlayer)
+	Entity ID: 276
+	Entity Name: Asriel
+	Entity's Exact location: 457.23, 76.00, 728.96
+	Entity's Block location: World: (457,76,728), Section: (at 9,12,8 in 28,4,45; chunk contains blocks 448,-64,720 to 463,319,735), Region: (0,1; contains chunks 0,32 to 31,63, blocks 0,-64,512 to 511,319,1023)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: null
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.Level.guardEntityTick(Level.java:582) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.lambda$tick$2(ServerLevel.java:410) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:390) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1082) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:955) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:715) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {}
+
+
+-- Affected level --
+Details:
+	All players: 3 total; ServerPlayer{name=Dalej, id=91, pos=(534.5076085285281, 87.1212968405392, 854.480369518349), mode=SURVIVAL, permission=0}, ServerPlayer{name=morax, id=208, pos=(421.2915652796067, 82.0, 725.5588084310482), mode=SURVIVAL, permission=0}, ServerPlayer{name=Asriel, id=276, pos=(457.23396420611436, 76.00000075100273, 728.9615695078495), mode=SURVIVAL, permission=0}
+	Chunk stats: 3715
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (16,65,0), Section: (at 0,1,0 in 1,4,0; chunk contains blocks 16,-64,0 to 31,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 160617 game time, 176446 day time
+	Level name: world
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Commands: false
+	Level weather: Rain time: 75109 (now: false), thunder time: 44463 (now: false)
+	Known server brands: neoforge
+	Removed feature flags: 
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+	Loaded entity count: 458
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.level.ServerLevel.fillReportDetails(ServerLevel.java:1748) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:glitchcore.mixins.json:MixinServerLevel from mod glitchcore,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1085) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:955) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:715) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23159!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.5
+	Minecraft Version ID: 1.21.5
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 21.0.8, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 930711072 bytes (887 MiB) / 2147483648 bytes (2048 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 7997.99
+	Virtual memory used (MiB): 5055.95
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 110796.39, total: 120377.56
+	Space in storage for workdir (MiB): available: 17935.14, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 3 / 20; [ServerPlayer['Dalej'/91, l='ServerLevel[world]', x=534.51, y=87.12, z=854.48], ServerPlayer['morax'/208, l='ServerLevel[world]', x=421.29, y=82.00, z=725.56], ServerPlayer['Asriel'/276, l='ServerLevel[world]', x=457.23, y=76.00, z=728.96]]
+	Active Data Packs: vanilla, mod_data, mod/entity_model_features (incompatible), mod/entity_texture_features (incompatible), mod/terrablender (incompatible), mod/fabric_api_base, mod/fabric_renderer_api_v1, mod/onlyhammers (incompatible), mod/jade (incompatible), mod/jei (incompatible), mod/commonnetworking (incompatible), mod/sophisticatedcore (incompatible), mod/collective, mod/camera (incompatible), mod/journeymap (incompatible), mod/neoforge, mod/fabric_block_view_api_v2, mod/iris, mod/glitchcore (incompatible), mod/biomesoplenty (incompatible), mod/sophisticatedbackpacks (incompatible), mod/terralith, mod/fabric_rendering_data_attachment_v1, mod/sodium, mod/infinitetrading, mod/journeymap_api (incompatible), mod/replantingcrops
+	Available Data Packs: minecart_improvements, redstone_experiments, trade_rebalance, vanilla, mod/biomesoplenty (incompatible), mod/camera (incompatible), mod/collective, mod/commonnetworking (incompatible), mod/entity_model_features (incompatible), mod/entity_texture_features (incompatible), mod/fabric_api_base, mod/fabric_block_view_api_v2, mod/fabric_renderer_api_v1, mod/fabric_rendering_data_attachment_v1, mod/glitchcore (incompatible), mod/infinitetrading, mod/iris, mod/jade (incompatible), mod/jei (incompatible), mod/journeymap (incompatible), mod/journeymap_api (incompatible), mod/neoforge, mod/onlyhammers (incompatible), mod/replantingcrops, mod/sodium, mod/sophisticatedbackpacks (incompatible), mod/sophisticatedcore (incompatible), mod/terrablender (incompatible), mod/terralith, mod_data
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: -2853366232686231362
+	Suppressed Exceptions: 
+		Latest entries:
+			packet/serverbound/minecraft:container_click:class com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalArgumentException: Failed to hash camera:active=>INSTANCE: Component of type camera:active is not encodable (49ms ago)
+		Entry counts:
+			packet/serverbound/minecraft:container_click:class com.google.common.util.concurrent.UncheckedExecutionException x 1
+
+	Is Modded: Definitely; Server brand changed to 'neoforge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 11.0.4+main.d2e20e43
+	ModLauncher launch target: neoforgeserver
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-7.0.13.jar slf4jfixer PLUGINSERVICE 
+		loader-7.0.13.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-11.0.2.jar accesstransformer PLUGINSERVICE 
+		loader-7.0.13.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.4.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.4.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@7.0
+		minecraft@7.0
+	Mod List: 
+		BiomesOPlenty-neoforge-1.21.5-21.4.0.61.jar       |Biomes O' Plenty              |biomesoplenty                 |21.4.0.61           |Manifest: NOSIGNATURE
+		camera-neoforge-1.21.5-1.1.7.jar                  |Camera Mod                    |camera                        |1.21.5-1.1.7        |Manifest: NOSIGNATURE
+		collective-1.21.5-8.3.jar                         |Collective                    |collective                    |8.3                 |Manifest: NOSIGNATURE
+		common-networking-neoforge-1.0.18-1.21.5.jar      |Common Networking             |commonnetworking              |1.0.18-1.21.5       |Manifest: NOSIGNATURE
+		entity_model_features_neoforge_1.21.5-2.4.4.jar   |Entity Model Features         |entity_model_features         |2.4.4               |Manifest: NOSIGNATURE
+		entity_texture_features_neoforge_1.21.5-6.2.13.jar|Entity Texture Features       |entity_texture_features       |6.2.13              |Manifest: NOSIGNATURE
+		fabric-renderer-api-v1-6.0.0.jar                  |Fabric Renderer API (CaffeineM|fabric_renderer_api_v1        |6.0.0               |Manifest: NOSIGNATURE
+		fabric-api-base-0.4.42+d1308ded19.jar             |Forgified Fabric API Base     |fabric_api_base               |0.4.42+d1308ded19   |Manifest: NOSIGNATURE
+		fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar    |Forgified Fabric BlockView API|fabric_block_view_api_v2      |1.0.10+9afaaf8c19   |Manifest: NOSIGNATURE
+		fabric-rendering-data-attachment-v1-0.3.48+73761d2|Forgified Fabric Rendering Dat|fabric_rendering_data_attachme|0.3.48+73761d2e19   |Manifest: NOSIGNATURE
+		GlitchCore-neoforge-1.21.5-2.5.0.1.jar            |GlitchCore                    |glitchcore                    |2.5.0.1             |Manifest: NOSIGNATURE
+		infinitetrading-1.21.5-4.6.jar                    |Infinite Trading              |infinitetrading               |4.6                 |Manifest: NOSIGNATURE
+		iris-neoforge-1.8.11+mc1.21.5.jar                 |Iris                          |iris                          |1.8.11+mc1.21.5     |Manifest: NOSIGNATURE
+		Jade-1.21.5-NeoForge-18.2.0.jar                   |Jade                          |jade                          |18.2.0+neoforge     |Manifest: NOSIGNATURE
+		journeymap-neoforge-1.21.5-6.0.0-beta.52.jar      |Journeymap                    |journeymap                    |1.21.5-6.0.0-beta.52|Manifest: NOSIGNATURE
+		journeymap-api-neoforge-2.0.0-1.21.5-SNAPSHOT.jar |JourneyMap API                |journeymap_api                |2.0.0               |Manifest: NOSIGNATURE
+		jei-1.21.5-neoforge-21.4.0.27.jar                 |Just Enough Items             |jei                           |21.4.0.27           |Manifest: NOSIGNATURE
+		server-1.21.5-20250325.162830-srg.jar             |Minecraft                     |minecraft                     |1.21.5              |Manifest: NOSIGNATURE
+		neoforge-21.5.87-universal.jar                    |NeoForge                      |neoforge                      |21.5.87             |Manifest: NOSIGNATURE
+		onlyhammers-1.21.5-0.7.jar                        |OnlyHammers                   |onlyhammers                   |1.21.5-0.7          |Manifest: NOSIGNATURE
+		replantingcrops-1.21.5-5.5.jar                    |Replanting Crops              |replantingcrops               |5.5                 |Manifest: NOSIGNATURE
+		sodium-neoforge-0.6.13+mc1.21.5.jar               |Sodium                        |sodium                        |0.6.13+mc1.21.5     |Manifest: NOSIGNATURE
+		sophisticatedbackpacks-1.21.5-3.24.19.1294.jar    |Sophisticated Backpacks       |sophisticatedbackpacks        |3.24.19             |Manifest: NOSIGNATURE
+		sophisticatedcore-1.21.5-1.3.59.1064.jar          |Sophisticated Core            |sophisticatedcore             |1.3.59              |Manifest: NOSIGNATURE
+		TerraBlender-neoforge-1.21.5-5.0.0.1.jar          |TerraBlender                  |terrablender                  |5.0.0.1             |Manifest: NOSIGNATURE
+		Terralith_1.21.x_v2.5.11.jar                      |Terralith                     |terralith                     |2.5.11              |Manifest: NOSIGNATURE
+	Crash Report UUID: d71c999a-9a5a-4dff-9709-8e9a964a6db3
+	FML: 7.0.13
+	NeoForge: 21.5.87

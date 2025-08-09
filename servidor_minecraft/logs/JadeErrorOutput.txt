@@ -1,0 +1,27 @@
+Aug 6, 2025, 6:04:19 AM
+INSTANCE
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.5.87/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:116)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:113)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:74)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:283)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:557)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:205)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:240)
+	at TRANSFORMER/jade@18.2.0+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:837)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721)
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
