@@ -291,6 +291,7 @@
       "minecraft:river": "2025-08-03 04:05:34 +0000",
       "minecraft:swamp": "2025-08-04 07:32:15 +0000",
       "minecraft:snowy_plains": "2025-08-06 07:01:46 +0000",
+      "minecraft:lush_caves": "2025-08-09 04:41:51 +0000",
       "minecraft:snowy_taiga": "2025-08-03 06:10:30 +0000",
       "minecraft:snowy_beach": "2025-08-06 07:00:06 +0000"
     },
@@ -3926,6 +3927,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-08 07:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-08-09 04:45:56 +0000"
     },
     "done": true
   },
