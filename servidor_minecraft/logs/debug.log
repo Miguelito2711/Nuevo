@@ -1560,3 +1560,89 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [09Aug2025 04:07:29.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
 [09Aug2025 04:08:23.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -10.220121014353822,0.023088109101550458,-0.021593499117557258
 [09Aug2025 04:11:08.761] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:13:18.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.013001466416447727,-11.542330461198759,-0.25957274642667016
+[09Aug2025 04:13:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[09Aug2025 04:16:08.756] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:17:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[09Aug2025 04:20:06.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[09Aug2025 04:20:08.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved wrongly!
+[09Aug2025 04:20:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> PINGa
+[09Aug2025 04:20:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> que susto cojone
+[09Aug2025 04:20:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> estoy con 3 muslitos
+[09Aug2025 04:20:50.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me cague durisimo
+[09Aug2025 04:21:08.755] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:21:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david porq la granja de caña produce tan rapido
+[09Aug2025 04:21:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ni puta idea
+[09Aug2025 04:21:46.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> cada vez q vengo ya esta al maximo
+[09Aug2025 04:22:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
+[09Aug2025 04:23:45.856] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6069e146 into net.minecraft.network.Connection@2cbde04b
+[09Aug2025 04:23:49.175] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@309669c5 into net.minecraft.network.Connection@2cbde04b
+[09Aug2025 04:23:49.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.87.71.197:45797] logged in with entity id 14049 at (543.141563043646, 80.0, 386.8979531418313)
+[09Aug2025 04:23:49.193] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [campfire_cooking, crafting, smelting, stonecutting, blasting, smithing, smoking]
+[09Aug2025 04:23:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[09Aug2025 04:23:49.226] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:23:49.226] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:26:08.789] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:27:27.589] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:27.590] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:27.591] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:35.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:35.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:35.142] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:37.992] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:37.993] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:27:37.993] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:29:18.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[09Aug2025 04:29:18.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[09Aug2025 04:29:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ta tanque
+[09Aug2025 04:29:51.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> ya veo xq vegeta esta calvo
+[09Aug2025 04:30:01.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> es pr ka sfokin islas
+[09Aug2025 04:30:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> xd
+[09Aug2025 04:30:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira nada mas se ve la punta dela muralla
+[09Aug2025 04:30:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> un salto de fe literlamente
+[09Aug2025 04:30:51.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> literal
+[09Aug2025 04:30:57.242] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6befeb0e into net.minecraft.network.Connection@67a222bb
+[09Aug2025 04:30:59.207] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@b33839a into net.minecraft.network.Connection@67a222bb
+[09Aug2025 04:30:59.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.87.71.197:35809] logged in with entity id 17190 at (542.5473037255102, 76.0, 389.7883602775926)
+[09Aug2025 04:30:59.228] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [campfire_cooking, crafting, smelting, stonecutting, blasting, smithing, smoking]
+[09Aug2025 04:30:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[09Aug2025 04:30:59.276] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:30:59.276] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:31:08.756] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:35:38.442] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:35:38.442] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:35:38.443] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:35:39.543] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:35:39.543] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:35:39.543] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:36:08.764] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:36:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
+[09Aug2025 04:36:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> añadieron algo de estructuras'
+[09Aug2025 04:36:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> plp
+[09Aug2025 04:36:30.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ?
+[09Aug2025 04:36:34.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> wasap
+[09Aug2025 04:36:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> Keibel te pasaste
+[09Aug2025 04:36:45.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> 20/10
+[09Aug2025 04:36:55.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> pene
+[09Aug2025 04:37:02.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david por favor necesito enseñarte esto
+[09Aug2025 04:37:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> como recomendacion ponle una tanga roja
+[09Aug2025 04:37:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ven pa mi gao david
+[09Aug2025 04:37:25.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> puede que se laponga
+[09Aug2025 04:38:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> perro waterdrop
+[09Aug2025 04:38:35.739] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:38:35.739] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:38:35.739] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[09Aug2025 04:38:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[09Aug2025 04:39:52.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzzplis
+[09Aug2025 04:40:29.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> dime
+[09Aug2025 04:40:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
+[09Aug2025 04:40:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> zzzz
+[09Aug2025 04:40:38.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:38.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:38.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:38.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:40.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> z
+[09Aug2025 04:40:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> vamo a dormir primero
+[09Aug2025 04:41:08.770] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[09Aug2025 04:42:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira esa estructura
