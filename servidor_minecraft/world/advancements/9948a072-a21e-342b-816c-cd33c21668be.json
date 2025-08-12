@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-12 03:20:41 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-12 04:49:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2025-08-12 03:01:05 +0000"
@@ -608,6 +620,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-12 03:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
     },
     "done": true
   },
@@ -721,6 +739,12 @@
     },
     "done": false
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-12 04:46:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-12 03:00:08 +0000"
@@ -754,6 +778,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-12 03:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
     },
     "done": true
   },
@@ -820,6 +850,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-12 04:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
     },
     "done": true
   },
@@ -1297,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-12 04:46:14 +0000"
+    },
+    "done": true
+  },
   "onlyhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_diamond": "2025-08-12 03:20:41 +0000"
@@ -1336,6 +1378,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-12 03:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
     },
     "done": true
   },
@@ -1538,9 +1586,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-12 03:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-08-12 04:44:41 +0000"
     },
     "done": true
   },
