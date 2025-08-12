@@ -1656,3 +1656,14 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 04:09:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> mira los msj
 [12Aug2025 04:09:37.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no no tengo sala de encantamiento todavia
 [12Aug2025 04:09:44.280] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 04:14:44.281] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 04:16:42.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[12Aug2025 04:16:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[12Aug2025 04:17:01.787] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5bd5607 into net.minecraft.network.Connection@7829474
+[12Aug2025 04:17:04.453] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2a891b4c into net.minecraft.network.Connection@7829474
+[12Aug2025 04:17:04.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.184.240.177:34859] logged in with entity id 41472 at (543.4634535431, 75.9375, 373.661091859167)
+[12Aug2025 04:17:04.470] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [campfire_cooking, smelting, crafting, blasting, smithing, stonecutting, smoking]
+[12Aug2025 04:17:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[12Aug2025 04:17:04.499] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 04:17:04.499] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 04:19:44.275] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
