@@ -1729,18 +1729,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
-    "criteria": {
-      "has_gunpowder": "2025-08-09 06:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-09 06:14:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-09 06:14:39 +0000"
@@ -1765,21 +1753,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-09 06:14:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-09 06:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-09 06:14:47 +0000"
     },
     "done": true
   },
@@ -1807,6 +1783,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-09 06:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-09 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-09 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-09 06:14:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-09 06:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-09 06:29:35 +0000"
@@ -1819,9 +1825,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_granite": "2025-08-09 06:14:39 +0000"
+      "has_smooth_stone": "2025-08-12 02:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-12 02:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-12 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-12 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-12 02:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-12 02:41:29 +0000"
+    },
+    "done": true
+  },
+  "onlyhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-12 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-12 02:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-12 02:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-12 02:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-12 02:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-12 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-12 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-12 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-12 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-12 02:43:01 +0000"
     },
     "done": true
   },

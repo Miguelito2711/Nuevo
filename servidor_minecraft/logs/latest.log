@@ -210,3 +210,22 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 02:10:35.905] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@269620ec for service interface journeymap.api.services.ClientPlatformService
 [12Aug2025 02:10:35.906] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@7411cac9 for service interface journeymap.api.services.CommonPlatformService
 [12Aug2025 02:11:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[12Aug2025 02:24:44.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.184.240.177:52685] logged in with entity id 8 at (538.0664327584401, 76.0, 390.789457774931)
+[12Aug2025 02:24:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[12Aug2025 02:24:44.750] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:24:44.750] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:35:02.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.247.217.155:38295] logged in with entity id 2414 at (17.5, 67.0, 10.5)
+[12Aug2025 02:35:02.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
+[12Aug2025 02:36:10.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: You logged in from another location
+[12Aug2025 02:36:10.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
+[12Aug2025 02:36:10.823] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 02:36:21.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.21.86.224:33801] logged in with entity id 3022 at (28.907495109692356, 70.0, 24.706414556682336)
+[12Aug2025 02:36:21.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
+[12Aug2025 02:38:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Fishy Business]
+[12Aug2025 02:41:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Take Aim]
+[12Aug2025 02:44:37.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Timed out
+[12Aug2025 02:44:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
+[12Aug2025 02:45:45.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.21.86.224:35913] logged in with entity id 5277 at (540.283978557229, 80.0, 385.1059035315167)
+[12Aug2025 02:45:45.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
+[12Aug2025 02:45:54.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Disconnected
+[12Aug2025 02:45:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
