@@ -1696,3 +1696,23 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 04:50:51.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [We Need to Go Deeper]
 [12Aug2025 04:50:53.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
 [12Aug2025 04:50:55.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [We Need to Go Deeper]
+[12Aug2025 04:54:47.228] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 04:56:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 burned to death
+[12Aug2025 04:59:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Oh Shiny]
+[12Aug2025 04:59:47.221] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 05:00:46.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Who is Cutting Onions?]
+[12Aug2025 05:02:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> edu pa q es el azufre?
+[12Aug2025 05:02:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ni idea
+[12Aug2025 05:02:44.027] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6347a842 into net.minecraft.network.Connection@4c82d9b4
+[12Aug2025 05:02:46.474] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@625baa35 into net.minecraft.network.Connection@4c82d9b4
+[12Aug2025 05:02:46.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.42.89.154:47617] logged in with entity id 54218 at (908.1308353276117, 139.0, 16.302645878068134)
+[12Aug2025 05:02:46.497] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [campfire_cooking, smelting, crafting, blasting, smithing, stonecutting, smoking]
+[12Aug2025 05:02:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[12Aug2025 05:03:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> para hacer bloques de azufre
+[12Aug2025 05:04:47.237] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 05:05:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers fell from a high place
+[12Aug2025 05:09:47.257] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 05:14:47.244] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 05:18:55.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[12Aug2025 05:18:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[12Aug2025 05:19:47.226] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
