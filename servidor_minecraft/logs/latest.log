@@ -283,3 +283,15 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 03:07:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Not Today, Thank You]
 [12Aug2025 03:07:53.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Monster Hunter]
 [12Aug2025 03:08:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Stone Age]
+[12Aug2025 03:11:33.099] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:11:33.120] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:13:08.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[12Aug2025 03:13:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[12Aug2025 03:19:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> aqui cual capa es la de los diamantes
+[12Aug2025 03:20:07.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.184.240.177:53641] logged in with entity id 17475 at (541.0967882018027, 80.0, 385.43315050856796)
+[12Aug2025 03:20:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[12Aug2025 03:20:07.049] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:20:07.050] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:20:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a partir de la -12
+[12Aug2025 03:20:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> creo
+[12Aug2025 03:20:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Diamonds!]
