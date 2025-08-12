@@ -1583,3 +1583,17 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 03:20:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a partir de la -12
 [12Aug2025 03:20:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> creo
 [12Aug2025 03:20:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Diamonds!]
+[12Aug2025 03:23:52.975] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:23:52.976] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:23:55.222] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:23:55.222] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:24:03.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:24:03.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:24:05.623] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:24:05.623] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:24:44.286] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[12Aug2025 03:27:45.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:27:45.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 03:27:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tabiogamers to leiven_222
+[12Aug2025 03:29:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [Diamonds!]
+[12Aug2025 03:29:44.285] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
