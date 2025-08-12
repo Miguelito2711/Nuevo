@@ -697,7 +697,8 @@
       "minecraft:magma_cube": "2025-08-12 04:55:24 +0000",
       "minecraft:spider": "2025-08-05 07:20:51 +0000",
       "minecraft:zombie": "2025-08-05 07:19:22 +0000",
-      "minecraft:creeper": "2025-08-08 05:17:36 +0000"
+      "minecraft:creeper": "2025-08-08 05:17:36 +0000",
+      "minecraft:ghast": "2025-08-12 05:22:02 +0000"
     },
     "done": false
   },
@@ -2371,7 +2372,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-08-12 04:50:55 +0000"
+      "minecraft:nether_wastes": "2025-08-12 04:50:55 +0000",
+      "minecraft:soul_sand_valley": "2025-08-12 05:22:11 +0000"
     },
     "done": false
   },
@@ -2420,6 +2422,12 @@
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-08-12 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-12 05:27:44 +0000"
     },
     "done": true
   },
@@ -2498,6 +2506,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-12 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-12 05:27:44 +0000"
     },
     "done": true
   },
