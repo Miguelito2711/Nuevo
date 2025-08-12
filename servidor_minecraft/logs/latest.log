@@ -229,3 +229,54 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [12Aug2025 02:45:45.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
 [12Aug2025 02:45:54.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Disconnected
 [12Aug2025 02:45:54.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
+[12Aug2025 02:51:26.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: morax (/127.4.45.40:57193) lost connection: Timed out
+[12Aug2025 02:51:58.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.4.45.40:35057] logged in with entity id 6356 at (427.4416002362905, 63.0, 577.1092570639962)
+[12Aug2025 02:51:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[12Aug2025 02:51:58.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.562] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.562] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.563] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.877] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.937] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.938] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.938] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:51:58.939] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:52:19.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.21.86.224:45807] logged in with entity id 6615 at (540.283978557229, 80.0, 385.1059035315167)
+[12Aug2025 02:52:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
+[12Aug2025 02:52:31.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ese es livan ?
+[12Aug2025 02:52:46.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> no
+[12Aug2025 02:52:50.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> tu tia
+[12Aug2025 02:52:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> na si soy yo
+[12Aug2025 02:53:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> JAJAJAJAJ
+[12Aug2025 02:53:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> waos
+[12Aug2025 02:53:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> una cosa como me puedo poner la skin
+[12Aug2025 02:53:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo si no le se mucho a eso hay q preguntarle a david
+[12Aug2025 02:55:22.272] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:27.322] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:29.374] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:33.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Suit Up]
+[12Aug2025 02:55:50.124] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:52.374] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:54.106] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:54.871] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:56.873] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:58.622] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:55:59.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:02.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:05.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:09.373] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:13.872] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:17.625] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:18.623] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:22.871] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:56:25.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Livan singao :)
+[12Aug2025 02:56:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dios?
+[12Aug2025 02:59:16.564] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:59:19.375] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:59:22.975] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:59:25.023] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12Aug2025 02:59:34.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Isn't It Iron Pick]
+[12Aug2025 02:59:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Getting an Upgrade]
+[12Aug2025 03:00:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [Acquire Hardware]
