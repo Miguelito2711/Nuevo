@@ -711,3 +711,73 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
 [13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
 [13Aug2025 07:30:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[13Aug2025 07:35:02.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.119.233.122:40459] logged in with entity id 83692 at (1017.6998841886268, -54.0, -58.691749189690306)
+[13Aug2025 07:35:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[13Aug2025 07:35:02.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:35:02.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:04.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ya recuperaste las cosas?
+[13Aug2025 07:36:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> estoy en las escaleras
+[13Aug2025 07:36:59.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:37:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q miedo
+[13Aug2025 07:37:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si xD
+[13Aug2025 07:37:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> parece juego de terror
+[13Aug2025 07:37:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> el efecto del corazon palpitando es una talla
+[13Aug2025 07:38:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tu crees q oiga esto
+[13Aug2025 07:38:06.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> el warden rompe bloques?
+[13Aug2025 07:38:16.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> se pone a wachinear
+[13Aug2025 07:38:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no pero el rayo atraviesa bloques
+[13Aug2025 07:38:51.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya se fue
+[13Aug2025 07:39:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay q romper el chillador si o si
+[13Aug2025 07:39:07.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Diego singao
+[13Aug2025 07:39:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira
+[13Aug2025 07:39:12.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> davi
+[13Aug2025 07:39:20.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=-39, z=-82} BlockPos{x=992, y=-39, z=-82}
+[13Aug2025 07:39:20.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=-39, z=-82} BlockPos{x=992, y=-39, z=-82}
+[13Aug2025 07:39:52.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q giro mas dramatico
+[13Aug2025 07:39:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Aug2025 07:39:55.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no veo nada xd<--[HERE]
+[13Aug2025 07:40:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no veo nada xd
+[13Aug2025 07:40:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> esta detras de mi verdad? ahhh giro
+[13Aug2025 07:40:16.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ando en la consola que es puro codigo
+[13Aug2025 07:40:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david es q tamos intentando quitar algo de unwarden
+[13Aug2025 07:40:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero hay 3 chilladores
+[13Aug2025 07:40:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eduardo antes de ir
+[13Aug2025 07:41:02.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> metete al discord
+[13Aug2025 07:43:43.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-36, z=-113} BlockPos{x=1000, y=-37, z=-112}
+[13Aug2025 07:48:00.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[13Aug2025 07:48:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[13Aug2025 07:51:23.660] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:51:23.959] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
