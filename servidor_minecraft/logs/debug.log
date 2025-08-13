@@ -2102,3 +2102,6 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 07:51:23.959] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 07:51:38.304] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 07:56:38.300] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 08:01:38.298] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 08:04:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was doomed to fall by Warden
