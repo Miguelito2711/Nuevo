@@ -324,3 +324,18 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 05:20:29.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=64, z=733} BlockPos{x=485, y=64, z=734}
 [13Aug2025 05:22:40.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19453, l='ServerLevel[world]', x=484.36, y=63.00, z=695.58] died, message: 'Unemployed was slain by Zombie'
 [13Aug2025 05:29:30.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
+[13Aug2025 05:32:56.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=534, y=74, z=447} BlockPos{x=534, y=73, z=446}
+[13Aug2025 05:39:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> edu q haces ?
+[13Aug2025 05:39:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> farmeando lvl
+[13Aug2025 05:39:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> aaaaaaa
+[13Aug2025 05:39:39.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.119.233.122:56347] logged in with entity id 36098 at (908.5989895540743, 139.0, 19.771616348504217)
+[13Aug2025 05:39:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[13Aug2025 05:39:39.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:39:39.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:44:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo has made the advancement [A Seedy Place]
+[13Aug2025 05:49:15.766] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:49:15.767] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:51:39.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:51:39.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:51:40.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 05:51:40.517] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
