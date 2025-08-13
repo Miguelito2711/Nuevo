@@ -1,46 +1,46 @@
-[13Aug2025 04:21:15.148] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.5.87, --fml.fmlVersion, 7.0.13, --fml.mcVersion, 1.21.5, --fml.neoFormVersion, 20250325.162830, nogui]
-[13Aug2025 04:21:15.150] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
-[13Aug2025 04:21:15.152] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[13Aug2025 04:21:15.296] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
-[13Aug2025 04:21:15.358] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/workspaces/Nuevo/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2383!/ Service=ModLauncher Env=SERVER
-[13Aug2025 04:21:15.769] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.5-20250325.162830-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.5.87:server]
-[13Aug2025 04:21:15.797] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.5.87-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.5.87/neoforge-21.5.87-universal.jar]], reader: mod manifest]
-[13Aug2025 04:21:15.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BiomesOPlenty-neoforge-1.21.5-21.4.0.61.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.819] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "camera-neoforge-1.21.5-1.1.7.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.824] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "collective-1.21.5-8.3.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.828] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.5-1.1.10.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.832] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.2_mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.835] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_model_features_neoforge_1.21.5-2.4.4.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.838] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_texture_features_neoforge_1.21.5-6.2.13.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.841] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "GlitchCore-neoforge-1.21.5-2.5.0.1.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.843] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "infinitetrading-1.21.5-4.6.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.848] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.11+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.856] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.5-NeoForge-18.2.0.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.861] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.5-neoforge-21.4.0.27.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.866] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.5-6.0.0-beta.52.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.877] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "onlyhammers-1.21.5-0.7.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.879] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "replantingcrops-1.21.5-5.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.883] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sodium-neoforge-0.6.13+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.886] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.5-3.24.19.1294.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.890] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.5-1.3.59.1064.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.892] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TerraBlender-neoforge-1.21.5-5.0.0.1.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:15.895] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Terralith_1.21.x_v2.5.11.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
-[13Aug2025 04:21:16.089] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[13Aug2025 04:21:16.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "httpmime-4.5.10.jar" [parent: entity_texture_features_neoforge_1.21.5-6.2.13.jar, locator: jarinjar]
-[13Aug2025 04:21:16.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-6.0.0.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.5.87.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.091] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar]
-[13Aug2025 04:21:16.091] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.091] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.18-1.21.5.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.091] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "antlr4-runtime-4.13.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
-[13Aug2025 04:21:16.091] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
-[13Aug2025 04:21:16.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.5-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.5-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
-[13Aug2025 04:21:16.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
-[13Aug2025 04:21:16.094] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+[13Aug2025 08:14:56.974] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.5.87, --fml.fmlVersion, 7.0.13, --fml.mcVersion, 1.21.5, --fml.neoFormVersion, 20250325.162830, nogui]
+[13Aug2025 08:14:56.977] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[13Aug2025 08:14:56.978] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[13Aug2025 08:14:57.144] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
+[13Aug2025 08:14:57.204] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/workspaces/Nuevo/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2383!/ Service=ModLauncher Env=SERVER
+[13Aug2025 08:14:57.677] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.5-20250325.162830-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.5.87:server]
+[13Aug2025 08:14:57.709] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.5.87-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.5.87/neoforge-21.5.87-universal.jar]], reader: mod manifest]
+[13Aug2025 08:14:57.730] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BiomesOPlenty-neoforge-1.21.5-21.4.0.61.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.736] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "camera-neoforge-1.21.5-1.1.7.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.739] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "collective-1.21.5-8.3.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.743] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.5-1.1.10.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.747] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.2_mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.750] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_model_features_neoforge_1.21.5-2.4.4.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.754] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_texture_features_neoforge_1.21.5-6.2.13.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.756] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "GlitchCore-neoforge-1.21.5-2.5.0.1.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.759] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "infinitetrading-1.21.5-4.6.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.765] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.11+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.776] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.5-NeoForge-18.2.0.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.782] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.5-neoforge-21.4.0.27.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.791] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.5-6.0.0-beta.52.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.798] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "onlyhammers-1.21.5-0.7.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.801] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "replantingcrops-1.21.5-5.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.805] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sodium-neoforge-0.6.13+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.810] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.5-3.24.19.1294.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.5-1.3.59.1064.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TerraBlender-neoforge-1.21.5-5.0.0.1.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:57.824] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Terralith_1.21.x_v2.5.11.jar" [locator: {mods folder locator at /workspaces/Nuevo/servidor_minecraft/mods}, reader: mod manifest]
+[13Aug2025 08:14:58.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[13Aug2025 08:14:58.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "httpmime-4.5.10.jar" [parent: entity_texture_features_neoforge_1.21.5-6.2.13.jar, locator: jarinjar]
+[13Aug2025 08:14:58.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-6.0.0.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.027] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.5.87.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.027] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar]
+[13Aug2025 08:14:58.027] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.027] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.18-1.21.5.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.027] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "antlr4-runtime-4.13.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[13Aug2025 08:14:58.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[13Aug2025 08:14:58.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.5-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.5-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[13Aug2025 08:14:58.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[13Aug2025 08:14:58.031] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
      Mod List:
 		Name Version (Mod Id)
 
@@ -72,34 +72,34 @@
 		Sophisticated Core 1.3.59 (sophisticatedcore)
 		TerraBlender 5.0.0.1 (terrablender)
 		Terralith 2.5.11 (terralith)
-[13Aug2025 04:21:16.167] [main/WARN] [net.neoforged.fml.loading.LanguageProviderLoader/]: Mod Mod File: /workspaces/Nuevo/servidor_minecraft/mods/Terralith_1.21.x_v2.5.11.jar is using the deprecated 'lowcodefml' language loader. This warning can be fixed by simply removing the modLoader and loaderVersion settings from neoforge.mods.toml.
-[13Aug2025 04:21:16.901] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Aug2025 04:21:16.909] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[13Aug2025 04:21:16.989] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments [nogui]
-[13Aug2025 04:21:17.252] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.253] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.255] [main/WARN] [mixin/]: Reference map 'onlyexcavators.refmap.json' for onlyhammers.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.255] [main/WARN] [mixin/]: Reference map 'jade.refmap.json' for jade.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.256] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.257] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.263] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.267] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.268] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.268] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.269] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.270] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.273] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.274] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.276] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.276] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.295] [main/INFO] [Sodium/]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
-[13Aug2025 04:21:17.300] [main/WARN] [mixin/]: Reference map 'camera.refmap.json' for camera.mixins.json could not be read. If this is a development environment you can ignore this message
-[13Aug2025 04:21:17.552] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
-[13Aug2025 04:21:17.552] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
-[13Aug2025 04:21:17.554] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found onlyhammers.mixins.json:LevelRendererMixin from mod onlyhammers
-[13Aug2025 04:21:17.714] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/SalmonRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.SalmonRenderer)
-[13Aug2025 04:21:17.715] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.SalmonRenderer was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[13Aug2025 04:21:18.267] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[13Aug2025 08:14:58.094] [main/WARN] [net.neoforged.fml.loading.LanguageProviderLoader/]: Mod Mod File: /workspaces/Nuevo/servidor_minecraft/mods/Terralith_1.21.x_v2.5.11.jar is using the deprecated 'lowcodefml' language loader. This warning can be fixed by simply removing the modLoader and loaderVersion settings from neoforge.mods.toml.
+[13Aug2025 08:14:58.854] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Aug2025 08:14:58.864] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[13Aug2025 08:14:58.943] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments [nogui]
+[13Aug2025 08:14:59.269] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.270] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.272] [main/WARN] [mixin/]: Reference map 'onlyexcavators.refmap.json' for onlyhammers.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.273] [main/WARN] [mixin/]: Reference map 'jade.refmap.json' for jade.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.273] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.274] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.282] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.287] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.288] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.288] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.289] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.289] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.292] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.292] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.293] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.293] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.314] [main/INFO] [Sodium/]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[13Aug2025 08:14:59.321] [main/WARN] [mixin/]: Reference map 'camera.refmap.json' for camera.mixins.json could not be read. If this is a development environment you can ignore this message
+[13Aug2025 08:14:59.551] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[13Aug2025 08:14:59.552] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[13Aug2025 08:14:59.553] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found onlyhammers.mixins.json:LevelRendererMixin from mod onlyhammers
+[13Aug2025 08:14:59.738] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/SalmonRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.SalmonRenderer)
+[13Aug2025 08:14:59.738] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.SalmonRenderer was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[13Aug2025 08:15:00.262] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at MC-BOOTSTRAP/com.github.oshi@6.6.5/oshi.SystemInfo.<clinit>(SystemInfo.java:40) ~[oshi-core-6.6.5.jar%23110!/:6.6.5]
 	at TRANSFORMER/minecraft@1.21.5/net.minecraft.SystemReport.lambda$new$2(SystemReport.java:56) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
@@ -136,649 +136,104 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:216) ~[securejarhandler-3.0.8.jar:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 29 more
-[13Aug2025 04:21:18.342] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13Aug2025 04:21:23.164] [main/WARN] [mixin/]: Injection warning: LVT in net/minecraft/world/level/BaseSpawner::serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;)V has incompatible changes at opcode 65 in callback collective_neoforge.mixins.json:BaseSpawnerMixin from mod collective->@Inject::BaseSpawner_serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ZLnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/SpawnData;ILnet/minecraft/nbt/CompoundTag;Ljava/util/Optional;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;ILnet/minecraft/world/entity/Mob;)V.
+[13Aug2025 08:15:00.349] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13Aug2025 08:15:05.545] [main/WARN] [mixin/]: Injection warning: LVT in net/minecraft/world/level/BaseSpawner::serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;)V has incompatible changes at opcode 65 in callback collective_neoforge.mixins.json:BaseSpawnerMixin from mod collective->@Inject::BaseSpawner_serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ZLnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/SpawnData;ILnet/minecraft/nbt/CompoundTag;Ljava/util/Optional;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;ILnet/minecraft/world/entity/Mob;)V.
  Expected: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I, Lnet/minecraft/nbt/CompoundTag;, Ljava/util/Optional;, Lnet/minecraft/world/phys/Vec3;, Lnet/minecraft/core/BlockPos;, Lnet/minecraft/world/entity/Entity;, I, Lnet/minecraft/world/entity/Mob;]
     Found: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I]
 Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I]
-[13Aug2025 04:21:24.994] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[13Aug2025 04:21:25.110] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.5.87, for MC 1.21.5
-[13Aug2025 04:21:26.242] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[13Aug2025 04:21:26.242] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[13Aug2025 04:21:26.242] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[13Aug2025 04:21:26.242] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[13Aug2025 04:21:26.243] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[13Aug2025 04:21:26.243] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[13Aug2025 04:21:26.243] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[13Aug2025 04:21:26.316] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[13Aug2025 04:21:26.332] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[13Aug2025 04:21:26.348] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[13Aug2025 04:21:26.349] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[13Aug2025 04:21:26.349] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[13Aug2025 04:21:26.350] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Camera Mod: de.maxhenkel.camera.integration.waila.PluginCamera
-[13Aug2025 04:21:26.353] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Corpse: de.maxhenkel.corpse.integration.waila.PluginCorpse
-[13Aug2025 04:21:26.409] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/neoforge/camera
-[13Aug2025 04:21:26.490] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13Aug2025 04:21:26.646] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nuevo/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[13Aug2025 04:21:26.647] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nuevo/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[13Aug2025 04:21:27.294] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Found status: BETA Current: 1.21.5-1.1.7 Target: 1.21.5-1.1.7
-[13Aug2025 04:21:27.295] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
-[13Aug2025 04:21:27.390] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.5-6.0.0-beta.52 Target: 1.21.5-6.0.0-beta.52
-[13Aug2025 04:21:27.390] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
-[13Aug2025 04:21:27.490] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA Current: 1.21.5-1.1.10 Target: 1.21.5-1.1.10
-[13Aug2025 04:21:29.186] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1767 recipes
-[13Aug2025 04:21:29.207] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1869 advancements
-[13Aug2025 04:21:29.210] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
-[13Aug2025 04:21:29.214] [main/ERROR] [sophisticatedbackpacks/]: No loader defined for swords
-[13Aug2025 04:21:29.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
-[13Aug2025 04:21:29.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13Aug2025 04:21:29.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13Aug2025 04:21:29.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[13Aug2025 04:21:29.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13Aug2025 04:21:29.646] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[13Aug2025 04:21:29.681] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13Aug2025 04:21:29.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[13Aug2025 04:21:29.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13Aug2025 04:21:29.682] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[13Aug2025 04:21:29.698] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[13Aug2025 04:21:29.735] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:camel that was registered with CREATURE mob category but was added under AMBIENT mob category for terralith:desert_spires biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
-[13Aug2025 04:21:29.755] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
-[13Aug2025 04:21:29.757] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rocky_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
-[13Aug2025 04:21:29.787] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[13Aug2025 04:21:30.114] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[13Aug2025 04:21:30.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13Aug2025 04:21:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13Aug2025 04:21:37.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.856] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.857] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.861] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:37.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:38.150] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[13Aug2025 04:21:38.195] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7685 ms
-[13Aug2025 04:21:38.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.502s)! For help, type "help"
-[13Aug2025 04:21:38.262] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
-[13Aug2025 04:21:38.265] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
-[13Aug2025 04:21:38.267] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@19dd0061 for service interface journeymap.api.services.ClientPlatformService
-[13Aug2025 04:21:38.269] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@1c1fb706 for service interface journeymap.api.services.CommonPlatformService
-[13Aug2025 04:21:53.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.87.107.203:60745] logged in with entity id 7 at (65.28598952665361, 71.0, 599.0843114789191)
-[13Aug2025 04:21:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
-[13Aug2025 04:21:53.784] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:21:53.785] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:21:53.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:21:53.787] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:21:53.787] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:05.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.156.11.16:41519] logged in with entity id 221 at (162.6417363130687, -10.0, 1099.002192847961)
-[13Aug2025 04:22:05.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
-[13Aug2025 04:22:07.387] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.387] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.388] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.388] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.388] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.388] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.406] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.407] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.408] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.410] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.410] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.410] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.411] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:07.411] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:22:45.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 moved wrongly!
-[13Aug2025 04:23:55.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.118.250.131:46295] logged in with entity id 942 at (62.78115062500876, 71.0, 599.9019270902631)
-[13Aug2025 04:23:55.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
-[13Aug2025 04:23:55.632] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:23:55.633] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:24:22.674] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:28:32.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers moved wrongly!
-[13Aug2025 04:29:09.203] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:29:58.120] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:31:38.921] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:34:20.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:34:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 has made the advancement [The Parrots and the Bats]
-[13Aug2025 04:34:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Netherite Chestplate] to tabiogamers
-[13Aug2025 04:34:50.968] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:35:03.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[13Aug2025 04:35:03.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xp tambiogamers 10 lvl<--[HERE]
-[13Aug2025 04:35:42.316] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:36:08.820] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:36:24.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[13Aug2025 04:36:32.620] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:37:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 10 experience levels to tabiogamers
-[13Aug2025 04:37:22.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:37:36.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:38:08.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:38:24.317] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:38:27.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
-[13Aug2025 04:38:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
-[13Aug2025 04:38:27.215] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[13Aug2025 04:39:59.013] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.013] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.015] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.015] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.015] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.015] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.015] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.017] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.017] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:39:59.017] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:01.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:01.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:01.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:01.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:01.063] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:40:04.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:43:00.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:43:00.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:43:00.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:43:00.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:43:00.414] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:44:20.764] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:44:20.765] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:44:20.765] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:44:20.765] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:44:20.766] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:45:40.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.118.250.131:48115] logged in with entity id 12596 at (481.30000001192093, 70.02442408821369, 733.896884839229)
-[13Aug2025 04:45:40.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
-[13Aug2025 04:45:40.279] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:45:40.280] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:45:49.866] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:46:10.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
-[13Aug2025 04:46:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
-[13Aug2025 04:46:39.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.118.250.131:59895] logged in with entity id 13318 at (481.30000001192093, 70.0, 733.7712397523507)
-[13Aug2025 04:46:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
-[13Aug2025 04:46:39.262] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:46:39.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 04:47:47.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> edu
-[13Aug2025 04:47:52.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dime
-[13Aug2025 04:47:55.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> aldeanos?
-[13Aug2025 04:48:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no habia
-[13Aug2025 04:50:36.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> tienes diseños de armadura para multiplicar
-[13Aug2025 04:50:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> nop
-[13Aug2025 05:06:04.213] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:06:04.214] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:07:59.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 was shot by tabiogamers using [ARREBATADOR DE CADENAS]
-[13Aug2025 05:08:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> wao
-[13Aug2025 05:16:23.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:16:23.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:16:23.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:16:23.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:16:23.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:20:29.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=64, z=733} BlockPos{x=485, y=64, z=734}
-[13Aug2025 05:22:40.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19453, l='ServerLevel[world]', x=484.36, y=63.00, z=695.58] died, message: 'Unemployed was slain by Zombie'
-[13Aug2025 05:29:30.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved wrongly!
-[13Aug2025 05:32:56.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=534, y=74, z=447} BlockPos{x=534, y=73, z=446}
-[13Aug2025 05:39:11.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> edu q haces ?
-[13Aug2025 05:39:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> farmeando lvl
-[13Aug2025 05:39:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> aaaaaaa
-[13Aug2025 05:39:39.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.119.233.122:56347] logged in with entity id 36098 at (908.5989895540743, 139.0, 19.771616348504217)
-[13Aug2025 05:39:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
-[13Aug2025 05:39:39.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:39:39.738] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:44:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo has made the advancement [A Seedy Place]
-[13Aug2025 05:49:15.766] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:49:15.767] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:51:39.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:51:39.372] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:51:40.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:51:40.517] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:52:52.926] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:52:54.353] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:52:54.353] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.215] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.215] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.215] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:09.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:11.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:11.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:11.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:11.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:11.517] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.814] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.815] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.815] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.815] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.815] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:13.815] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:15.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:15.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:15.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:15.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:53:15.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:00.523] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:00.523] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:00.523] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:00.524] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:00.524] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.945] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.945] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.946] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.946] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.946] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:02.946] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:04.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:04.265] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:04.265] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:04.265] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:04.265] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.065] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.065] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.065] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.066] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.066] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.066] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:05.066] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:06.344] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:06.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:06.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:06.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:06.345] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.172] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.172] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.172] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.172] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.173] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.173] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:57:08.173] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 05:58:33.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=966, y=132, z=-19} BlockPos{x=966, y=130, z=-20}
-[13Aug2025 06:01:05.468] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:05.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:06.618] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:06.618] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:06.619] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:06.619] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:06.619] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.916] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.916] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.916] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.916] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.916] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:08.917] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:14.867] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:04:56.816] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:04:56.818] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:05:05.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Disconnected
-[13Aug2025 06:05:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
-[13Aug2025 06:05:09.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
-[13Aug2025 06:05:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
-[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:05:53.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:05:53.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:07:08.111] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:08:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego
-[13Aug2025 06:08:31.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> sis
-[13Aug2025 06:08:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> noc si sabias pero en la torre esa q esta alado de tu casa habia un totem
-[13Aug2025 06:08:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bruhh
-[13Aug2025 06:08:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> en la punta habia un evoquer
-[13Aug2025 06:09:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> a no sabia ostias
-[13Aug2025 06:09:19.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a mi me dio curiosidad y subi
-[13Aug2025 06:09:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y ahi estaba solito
-[13Aug2025 06:09:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se resbalo y totem gratis
-[13Aug2025 06:13:13.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47482, l='ServerLevel[world]', x=32.21, y=216.19, z=582.43] died, message: 'Unemployed was slain by Zombie Villager'
-[13Aug2025 06:14:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
-[13Aug2025 06:14:38.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me acabo de salvar de un creper de estos con mochila
-[13Aug2025 06:14:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me la solto y era de netherite
-[13Aug2025 06:15:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone
-[13Aug2025 06:15:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y por un bug se me duplico mi mochila principal
-[13Aug2025 06:15:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo 5 mochilas de netherite
-[13Aug2025 06:15:43.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pinga
-[13Aug2025 06:16:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> todo gracias al lag
-[13Aug2025 06:16:17.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> gracias david
-[13Aug2025 06:16:55.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por si te interesa tengo un aldeano q vende reparacion x1 esmeralda
-[13Aug2025 06:17:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> revendedores cnon down
-[13Aug2025 06:17:48.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=130, z=-16} BlockPos{x=963, y=130, z=-16}
-[13Aug2025 06:17:48.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=130, z=-16} BlockPos{x=963, y=130, z=-16}
-[13Aug2025 06:18:01.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:18:01.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:23:42.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48430, l='ServerLevel[world]', x=245.05, y=60.00, z=476.79] died, message: 'Unemployed was slain by Zombie'
-[13Aug2025 06:23:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has reached the goal [Postmortal]
-[13Aug2025 06:24:10.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> acere dp los xombis de mierda estos
-[13Aug2025 06:24:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> no se xq hay tantos aqui
-[13Aug2025 06:24:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> estoy llevando un aldeano y se meten el medio
-[13Aug2025 06:25:01.749] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.862] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:00.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:43.013] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:43.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:43.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:43.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:43.014] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:26:44.012] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:28:05.712] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:28:05.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:28:05.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:28:05.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:28:05.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.363] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.363] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.364] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.364] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.364] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.364] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:30:55.364] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:33:22.512] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:33:22.513] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:33:22.513] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:33:22.513] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:33:22.513] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:35:14.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -0.4171347222685995,-0.2046003784434376,10.314842391007232
-[13Aug2025 06:35:24.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -10.222397112931219,0.42355929454303975,0.148641304514058
-[13Aug2025 06:38:27.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:27.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:30.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:30.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:30.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:30.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:38:30.611] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:41:54.312] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:41:54.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:41:54.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:41:54.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:41:54.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:42:28.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> papa david le subio la dificultad xq esta cantidad de bichos no es normal
-[13Aug2025 06:42:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no creo
-[13Aug2025 06:42:45.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> buaf
-[13Aug2025 06:43:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> compañeros minecrafteros mañana invocamos al wither
-[13Aug2025 06:43:12.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> haber
-[13Aug2025 06:43:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> podemos
-[13Aug2025 06:43:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes yunq en tu casa?
-[13Aug2025 06:43:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> nop
-[13Aug2025 06:43:52.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mielda
-[13Aug2025 06:44:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo un libro de filo v
-[13Aug2025 06:44:10.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> queria ponercelo a la espada
-[13Aug2025 06:44:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> gueso
-[13Aug2025 06:44:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> tu no tenias la mejora del yunque en la mochila
-[13Aug2025 06:44:33.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.062] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.360] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.361] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.361] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.361] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:33.361] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:44:48.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si pero no deja poner encantamientos
-[13Aug2025 06:52:46.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.109] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.109] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.109] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.110] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.358] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.359] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.359] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.359] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:46.359] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.759] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:52:49.759] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:01.458] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:01.458] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:01.459] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:01.459] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:01.459] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.059] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:53:03.060] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:17.759] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:17.760] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:17.760] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:17.760] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:17.760] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.259] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.259] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.259] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.260] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.260] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.558] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.558] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.559] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.559] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.559] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:54:25.559] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 06:55:41.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que
-[13Aug2025 06:55:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> puto
-[13Aug2025 06:55:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> susto
-[13Aug2025 06:56:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> MUSICA DE CALIDAD
-[13Aug2025 06:56:52.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Papa estoy buscando una ancient city
-[13Aug2025 06:57:02.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> esa es la del warden?
-[13Aug2025 06:57:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
-[13Aug2025 06:58:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> yo ando mas menos en lo msimo
-[13Aug2025 06:58:25.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> estoy conectando donde me mataron los warden con la mina
-[13Aug2025 07:01:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bruh
-[13Aug2025 07:02:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> jajs
-[13Aug2025 07:02:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> otia
-[13Aug2025 07:02:37.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.61.116.16:54193] logged in with entity id 66910 at (103.28941481035443, 66.0, 513.6012405077782)
-[13Aug2025 07:02:37.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
-[13Aug2025 07:02:37.259] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:02:37.260] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:02:47.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira quien vino
-[13Aug2025 07:02:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> eeeee
-[13Aug2025 07:02:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que tyemazo
-[13Aug2025 07:03:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> vite
-[13Aug2025 07:03:34.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> deberia
-[13Aug2025 07:03:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ser aqui
-[13Aug2025 07:03:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pero bueno
-[13Aug2025 07:04:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> era timido
-[13Aug2025 07:05:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> que bendicion
-[13Aug2025 07:05:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> 4 REPA
-[13Aug2025 07:06:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
-[13Aug2025 07:06:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> bueno
-[13Aug2025 07:06:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me tropece
-[13Aug2025 07:06:22.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> xd
-[13Aug2025 07:06:35.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> apareci en una trial chamber
-[13Aug2025 07:06:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Spider
-[13Aug2025 07:10:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego como llego MI CUERPO
-[13Aug2025 07:11:12.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> al lado de mi casa a la derecha hay como una mina
-[13Aug2025 07:11:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por ahi'
-[13Aug2025 07:11:24.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> un hueco rodeado de ladrillos de piedra
-[13Aug2025 07:11:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si tienes que llegar a la ultima capa y seguir por todos los pasillos
-[13Aug2025 07:16:28.517] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:17:33.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si quieres encontrar una ancient creo que lo mejor es la cueva esa de antes
-[13Aug2025 07:17:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes skulk por alla
-[13Aug2025 07:19:33.964] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:33.964] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.412] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:20:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego tu has visto los memes donde invocan a mahoraga
-[13Aug2025 07:20:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> let me knooow
-[13Aug2025 07:20:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> al 3ro moriamos
-[13Aug2025 07:21:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ta bueno eso pa ponerselo a alguien
-[13Aug2025 07:21:21.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> deja q david entre a su casa
-[13Aug2025 07:21:34.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> por ejemplo a KEIBEL emoticono de fuego
-[13Aug2025 07:21:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> baff
-[13Aug2025 07:21:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se lo detonan
-[13Aug2025 07:21:50.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=990, y=-53, z=-62} BlockPos{x=990, y=-54, z=-62}
-[13Aug2025 07:22:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> haslo con una axzada
-[13Aug2025 07:22:32.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=-51, z=-63} BlockPos{x=993, y=-50, z=-63}
-[13Aug2025 07:22:41.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mierda
-[13Aug2025 07:22:44.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> sube lento
-[13Aug2025 07:23:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya quite lo q lo invoca
-[13Aug2025 07:23:59.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
-[13Aug2025 07:23:59.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
-[13Aug2025 07:24:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por aqui sigue
-[13Aug2025 07:24:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> corre
-[13Aug2025 07:25:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> los subtitulos me dijerom warden se aproxima
-[13Aug2025 07:25:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> hay un bulto
-[13Aug2025 07:25:37.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya creo q se debe haber ido
-[13Aug2025 07:27:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
-[13Aug2025 07:27:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay dio mio
-[13Aug2025 07:27:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> habian 3 chilladores en ves de 1
-[13Aug2025 07:27:40.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=116, z=294} BlockPos{x=297, y=114, z=292}
-[13Aug2025 07:29:51.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ya se fue
-[13Aug2025 07:30:05.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya casi llego
-[13Aug2025 07:30:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vuelvo en 5min
-[13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
-[13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
-[13Aug2025 07:30:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
-[13Aug2025 07:35:02.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.119.233.122:40459] logged in with entity id 83692 at (1017.6998841886268, -54.0, -58.691749189690306)
-[13Aug2025 07:35:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
-[13Aug2025 07:35:02.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:35:02.301] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:04.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ya recuperaste las cosas?
-[13Aug2025 07:36:15.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> estoy en las escaleras
-[13Aug2025 07:36:59.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.165] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.166] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.167] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:36:59.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:37:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q miedo
-[13Aug2025 07:37:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si xD
-[13Aug2025 07:37:39.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> parece juego de terror
-[13Aug2025 07:37:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> el efecto del corazon palpitando es una talla
-[13Aug2025 07:38:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tu crees q oiga esto
-[13Aug2025 07:38:06.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> el warden rompe bloques?
-[13Aug2025 07:38:16.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> se pone a wachinear
-[13Aug2025 07:38:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no pero el rayo atraviesa bloques
-[13Aug2025 07:38:51.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya se fue
-[13Aug2025 07:39:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay q romper el chillador si o si
-[13Aug2025 07:39:07.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Diego singao
-[13Aug2025 07:39:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mira
-[13Aug2025 07:39:12.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> davi
-[13Aug2025 07:39:20.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=-39, z=-82} BlockPos{x=992, y=-39, z=-82}
-[13Aug2025 07:39:20.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=993, y=-39, z=-82} BlockPos{x=992, y=-39, z=-82}
-[13Aug2025 07:39:52.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q giro mas dramatico
-[13Aug2025 07:39:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[13Aug2025 07:39:55.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no veo nada xd<--[HERE]
-[13Aug2025 07:40:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no veo nada xd
-[13Aug2025 07:40:12.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> esta detras de mi verdad? ahhh giro
-[13Aug2025 07:40:16.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ando en la consola que es puro codigo
-[13Aug2025 07:40:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> david es q tamos intentando quitar algo de unwarden
-[13Aug2025 07:40:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero hay 3 chilladores
-[13Aug2025 07:40:56.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> eduardo antes de ir
-[13Aug2025 07:41:02.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> metete al discord
-[13Aug2025 07:43:43.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-36, z=-113} BlockPos{x=1000, y=-37, z=-112}
-[13Aug2025 07:48:00.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
-[13Aug2025 07:48:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
-[13Aug2025 07:51:23.660] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.661] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 07:51:23.959] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[13Aug2025 08:04:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was doomed to fall by Warden
+[13Aug2025 08:15:07.416] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[13Aug2025 08:15:07.515] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.5.87, for MC 1.21.5
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[13Aug2025 08:15:08.711] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[13Aug2025 08:15:08.712] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[13Aug2025 08:15:08.787] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[13Aug2025 08:15:08.799] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[13Aug2025 08:15:08.811] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[13Aug2025 08:15:08.812] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[13Aug2025 08:15:08.812] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[13Aug2025 08:15:08.813] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Camera Mod: de.maxhenkel.camera.integration.waila.PluginCamera
+[13Aug2025 08:15:08.814] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Corpse: de.maxhenkel.corpse.integration.waila.PluginCorpse
+[13Aug2025 08:15:08.945] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/neoforge/camera
+[13Aug2025 08:15:08.991] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13Aug2025 08:15:09.135] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nuevo/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[13Aug2025 08:15:09.136] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Nuevo/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[13Aug2025 08:15:09.643] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Found status: BETA Current: 1.21.5-1.1.7 Target: 1.21.5-1.1.7
+[13Aug2025 08:15:09.644] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[13Aug2025 08:15:09.750] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.5-6.0.0-beta.52 Target: 1.21.5-6.0.0-beta.52
+[13Aug2025 08:15:09.750] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[13Aug2025 08:15:09.847] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA Current: 1.21.5-1.1.10 Target: 1.21.5-1.1.10
+[13Aug2025 08:15:11.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1767 recipes
+[13Aug2025 08:15:11.829] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1869 advancements
+[13Aug2025 08:15:11.832] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[13Aug2025 08:15:11.837] [main/ERROR] [sophisticatedbackpacks/]: No loader defined for swords
+[13Aug2025 08:15:12.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[13Aug2025 08:15:12.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Aug2025 08:15:12.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Aug2025 08:15:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Aug2025 08:15:12.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Aug2025 08:15:12.244] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Aug2025 08:15:12.276] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Aug2025 08:15:12.277] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Aug2025 08:15:12.277] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Aug2025 08:15:12.277] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Aug2025 08:15:12.295] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Aug2025 08:15:12.331] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:camel that was registered with CREATURE mob category but was added under AMBIENT mob category for terralith:desert_spires biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[13Aug2025 08:15:12.345] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[13Aug2025 08:15:12.346] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rocky_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[13Aug2025 08:15:12.372] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[13Aug2025 08:15:12.737] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[13Aug2025 08:15:12.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Aug2025 08:15:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Aug2025 08:15:19.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.080] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.081] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 08:15:19.404] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6120 ms
+[13Aug2025 08:15:19.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.114s)! For help, type "help"
+[13Aug2025 08:15:19.455] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[13Aug2025 08:15:19.457] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[13Aug2025 08:15:19.459] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@1df6439c for service interface journeymap.api.services.ClientPlatformService
+[13Aug2025 08:15:19.460] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@5cdbf927 for service interface journeymap.api.services.CommonPlatformService
+[13Aug2025 08:15:44.954] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.119.255.13:58909] logged in with entity id 9 at (977.2456991750253, -45.0, -261.8286604708464)
+[13Aug2025 08:15:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 08:15:47.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.144.94.97:36975] logged in with entity id 202 at (978.6731532083494, -44.0, -261.3713567032438)
+[13Aug2025 08:15:47.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[13Aug2025 08:15:47.632] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:15:47.634] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.466] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.468] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.468] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.469] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.470] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.470] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.471] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.472] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.472] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.473] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.473] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.474] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.475] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.478] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.479] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.479] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.481] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.482] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.483] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.483] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.484] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:16:27.484] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 08:18:55.306] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "6.0.0-beta.52": journeymap.server.mp.config
