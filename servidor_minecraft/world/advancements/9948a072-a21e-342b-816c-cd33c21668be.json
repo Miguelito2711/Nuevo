@@ -555,6 +555,7 @@
       "minecraft:cave_spider": "2025-08-12 03:34:53 +0000",
       "minecraft:skeleton": "2025-08-12 03:07:53 +0000",
       "minecraft:piglin": "2025-08-12 05:01:40 +0000",
+      "minecraft:zombified_piglin": "2025-08-13 03:26:46 +0000",
       "minecraft:magma_cube": "2025-08-13 02:01:53 +0000",
       "minecraft:spider": "2025-08-12 07:07:37 +0000",
       "minecraft:zombie": "2025-08-12 03:39:36 +0000",
@@ -2354,9 +2355,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-13 00:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
@@ -2390,6 +2403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-13 03:17:00 +0000"
@@ -2414,6 +2433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-08-13 03:07:20 +0000"
@@ -2423,6 +2448,12 @@
   "onlyhammers:recipes/tools/wooden_hammer": {
     "criteria": {
       "has_oak_log": "2025-08-13 03:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
@@ -2441,6 +2472,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-13 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
@@ -2483,6 +2520,12 @@
   "biomesoplenty:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-08-13 03:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
@@ -2534,15 +2577,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-08-13 00:44:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-08-13 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
@@ -2555,6 +2622,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-13 03:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-13 03:35:54 +0000"
     },
     "done": true
   },
