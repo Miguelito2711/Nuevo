@@ -1205,3 +1205,57 @@ java.lang.IndexOutOfBoundsException: Index -18 out of bounds for length 15
 [13Aug2025 03:38:17.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> q lindo esto
 [13Aug2025 03:38:52.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> senkiu
 [13Aug2025 03:39:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> coge
+[13Aug2025 03:39:17.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> ppa tienes q poner el aldeano de palos
+[13Aug2025 03:39:24.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si yoc
+[13Aug2025 03:40:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> estos dos
+[13Aug2025 03:41:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> graciass
+[13Aug2025 03:41:20.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> vas a salir?
+[13Aug2025 03:41:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a buscar los aldeanos
+[13Aug2025 03:41:36.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> vale
+[13Aug2025 03:41:48.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y despues convertirlos en zombis para q me bajen los precios
+[13Aug2025 03:42:00.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes manzanas?
+[13Aug2025 03:42:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> los aldeanos de mi casa estan muertos creo
+[13Aug2025 03:42:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> manxanas creo que no
+[13Aug2025 03:42:28.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ahora vemos
+[13Aug2025 03:43:00.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> de todas formas son los que no deja practicar ninguna profesion
+[13Aug2025 03:43:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> de los verdes
+[13Aug2025 03:43:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> los vagos
+[13Aug2025 03:43:17.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> exacto
+[13Aug2025 03:43:29.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> esos se pueden reproducir creo
+[13Aug2025 03:43:41.216] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:43:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> se vera
+[13Aug2025 03:43:41.865] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:46:40.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers moved too quickly! -2.6610173674545194,-3.7752370094690093,-8.913498737282396
+[13Aug2025 03:48:37.913] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:48:37.913] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:48:37.913] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:48:37.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:48:37.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:48:37.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:52:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers has made the advancement [What a Deal!]
+[13Aug2025 03:54:15.977] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:59:29.266] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:00:08.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:00:21.214] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:00:22.597] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:31.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:31.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:31.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:31.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:31.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:35.646] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:35.646] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:35.646] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:35.646] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:35.646] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:53.514] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:53.514] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:53.515] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:53.515] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:01:53.515] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:08:16.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[13Aug2025 04:08:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 04:08:39.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.238.175.144:55303] logged in with entity id 106014 at (201.69999998807907, 102.0, 298.30000001192093)
+[13Aug2025 04:08:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 04:08:39.423] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 04:08:39.424] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
