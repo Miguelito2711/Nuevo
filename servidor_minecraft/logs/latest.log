@@ -677,3 +677,83 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 02:05:45.895] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 02:06:15.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
 [13Aug2025 02:06:15.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:07:26.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.139.118.112:39003] logged in with entity id 50628 at (414.9721589269311, 63.0, 597.09200999001)
+[13Aug2025 02:07:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:07:26.549] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.550] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.551] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.560] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:26.561] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:27.051] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:27.238] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:27.238] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:27.238] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:27.238] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:07:56.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[13Aug2025 02:07:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:08:32.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.0.55.102:40701] logged in with entity id 51468 at (414.9721589269311, 63.0, 597.09200999001)
+[13Aug2025 02:08:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:08:32.785] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.787] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.789] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.791] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.792] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.792] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.792] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.793] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.793] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.793] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.794] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:32.982] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:33.098] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:33.098] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:33.099] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:33.099] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:08:52.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> livan como es q tu tienes buena conexion
+[13Aug2025 02:08:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> nise
+[13Aug2025 02:09:53.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.134.12.3:55879] logged in with entity id 52678 at (633.7628885046089, -56.0, 332.0828370213071)
+[13Aug2025 02:09:53.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:09:53.302] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:09:53.303] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:10:02.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[13Aug2025 02:10:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:10:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tabiogamers> pp livan llamame
+[13Aug2025 02:12:08.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 02:12:08.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:15:45.612] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@78cb9c4f[id=ba90b352-0046-3a15-868f-6c2e8cd363f8,name=morax,properties={}] lost connection: Timed out
+[13Aug2025 02:16:52.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.119.255.13:41929] logged in with entity id 56326 at (402.30000001192093, 64.0, 511.9949886444079)
+[13Aug2025 02:16:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:16:52.243] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.245] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.246] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.246] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.246] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.246] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.247] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.247] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.247] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.247] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.247] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:16:52.248] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:17:22.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[13Aug2025 02:17:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
