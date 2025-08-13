@@ -452,3 +452,22 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 06:09:19.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a mi me dio curiosidad y subi
 [13Aug2025 06:09:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y ahi estaba solito
 [13Aug2025 06:09:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se resbalo y totem gratis
+[13Aug2025 06:13:13.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47482, l='ServerLevel[world]', x=32.21, y=216.19, z=582.43] died, message: 'Unemployed was slain by Zombie Villager'
+[13Aug2025 06:14:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
+[13Aug2025 06:14:38.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me acabo de salvar de un creper de estos con mochila
+[13Aug2025 06:14:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me la solto y era de netherite
+[13Aug2025 06:15:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> cojone
+[13Aug2025 06:15:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y por un bug se me duplico mi mochila principal
+[13Aug2025 06:15:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tengo 5 mochilas de netherite
+[13Aug2025 06:15:43.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> pinga
+[13Aug2025 06:16:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> todo gracias al lag
+[13Aug2025 06:16:17.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> gracias david
+[13Aug2025 06:16:55.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por si te interesa tengo un aldeano q vende reparacion x1 esmeralda
+[13Aug2025 06:17:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> revendedores cnon down
+[13Aug2025 06:17:48.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=130, z=-16} BlockPos{x=963, y=130, z=-16}
+[13Aug2025 06:17:48.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=961, y=130, z=-16} BlockPos{x=963, y=130, z=-16}
+[13Aug2025 06:18:01.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:18:01.762] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:18:01.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
