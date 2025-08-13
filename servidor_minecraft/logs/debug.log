@@ -1948,3 +1948,64 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 07:11:24.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> un hueco rodeado de ladrillos de piedra
 [13Aug2025 07:11:38.324] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [13Aug2025 07:11:43.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si tienes que llegar a la ultima capa y seguir por todos los pasillos
+[13Aug2025 07:16:28.517] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.518] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.519] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:28.520] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:16:38.318] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 07:17:33.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> si quieres encontrar una ancient creo que lo mejor es la cueva esa de antes
+[13Aug2025 07:17:57.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tienes skulk por alla
+[13Aug2025 07:19:33.964] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:33.964] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:33.965] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.114] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.412] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:19:35.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 07:20:02.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego tu has visto los memes donde invocan a mahoraga
+[13Aug2025 07:20:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> let me knooow
+[13Aug2025 07:20:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> al 3ro moriamos
+[13Aug2025 07:21:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ta bueno eso pa ponerselo a alguien
+[13Aug2025 07:21:21.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> deja q david entre a su casa
+[13Aug2025 07:21:34.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> por ejemplo a KEIBEL emoticono de fuego
+[13Aug2025 07:21:38.328] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 07:21:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> baff
+[13Aug2025 07:21:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se lo detonan
+[13Aug2025 07:21:50.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=990, y=-53, z=-62} BlockPos{x=990, y=-54, z=-62}
+[13Aug2025 07:22:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> haslo con una axzada
+[13Aug2025 07:22:32.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=994, y=-51, z=-63} BlockPos{x=993, y=-50, z=-63}
+[13Aug2025 07:22:41.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mierda
+[13Aug2025 07:22:44.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> sube lento
+[13Aug2025 07:23:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya quite lo q lo invoca
+[13Aug2025 07:23:59.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
+[13Aug2025 07:23:59.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
+[13Aug2025 07:24:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por aqui sigue
