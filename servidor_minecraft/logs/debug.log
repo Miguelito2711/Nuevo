@@ -2126,3 +2126,192 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 02:16:52.248] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 02:17:22.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
 [13Aug2025 02:17:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:18:36.222] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@371d3b61 into net.minecraft.network.Connection@3dd04c48
+[13Aug2025 02:19:20.208] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@605513e2[id=ba90b352-0046-3a15-868f-6c2e8cd363f8,name=morax,properties={}] lost connection: Timed out
+[13Aug2025 02:20:02.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que singados todos los que estan dentro
+[13Aug2025 02:20:14.631] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@26c1f404 into net.minecraft.network.Connection@25aa3bbe
+[13Aug2025 02:20:43.810] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@81cb0f4 into net.minecraft.network.Connection@25aa3bbe
+[13Aug2025 02:20:43.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.119.255.13:37751] logged in with entity id 57450 at (402.30000001192093, 64.0, 511.9949886444079)
+[13Aug2025 02:20:43.834] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:20:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:20:43.888] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.888] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.889] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.890] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.891] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:43.891] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:20:59.953] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:21:12.363] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:22:29.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[13Aug2025 02:22:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:23:24.264] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5233501f into net.minecraft.network.Connection@16f512d
+[13Aug2025 02:23:41.509] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fa5cecb[id=ba90b352-0046-3a15-868f-6c2e8cd363f8,name=morax,properties={}] lost connection: Timed out
+[13Aug2025 02:24:03.584] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4a4f6de8 into net.minecraft.network.Connection@531c6630
+[13Aug2025 02:24:18.666] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2a1942e4 into net.minecraft.network.Connection@531c6630
+[13Aug2025 02:24:18.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.119.255.13:41651] logged in with entity id 58701 at (400.2130180290045, 81.0, 527.1224230113831)
+[13Aug2025 02:24:18.691] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:24:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:24:18.743] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.744] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.745] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.745] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.745] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.747] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.747] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:18.748] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:24:19.429] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:25:25.833] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:25:25.834] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:25:25.834] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:25:25.834] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:26:12.357] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:27:45.317] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3757aca5 into net.minecraft.network.Connection@8da040b
+[13Aug2025 02:27:48.014] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3403a243 into net.minecraft.network.Connection@8da040b
+[13Aug2025 02:27:48.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.52.28.12:59073] logged in with entity id 59797 at (627.8000774891935, -56.0, 344.47075740084597)
+[13Aug2025 02:27:48.029] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:27:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:27:48.078] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:27:48.078] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:30:03.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 02:30:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:31:12.356] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:32:35.965] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@55d7ac68 into net.minecraft.network.Connection@2aba5476
+[13Aug2025 02:32:42.376] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@46b88b27 into net.minecraft.network.Connection@2aba5476
+[13Aug2025 02:32:42.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.91.78.168:38503] logged in with entity id 62086 at (638.6999999880791, -56.0, 368.1640218625593)
+[13Aug2025 02:32:42.390] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:32:42.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:32:42.425] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:32:42.425] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:33:00.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> edu como se llama donde se consigue el martillo durisimo
+[13Aug2025 02:33:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> eso es en las trial chambers
+[13Aug2025 02:33:28.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> eso eso
+[13Aug2025 02:33:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> eso esta bajo tierra?
+[13Aug2025 02:33:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> si
+[13Aug2025 02:34:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pero para q te salga el martillo te hace falta una pocio de hacer raid lvl 5
+[13Aug2025 02:35:09.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[13Aug2025 02:35:09.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:36:12.359] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:38:01.820] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@ed643ac into net.minecraft.network.Connection@276ef98f
+[13Aug2025 02:38:05.583] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6a0deae7 into net.minecraft.network.Connection@276ef98f
+[13Aug2025 02:38:05.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.91.78.168:51697] logged in with entity id 65074 at (621.4052573944981, -56.0, 405.8702969278388)
+[13Aug2025 02:38:05.598] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:38:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:38:05.630] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:38:05.630] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:38:10.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[13Aug2025 02:38:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:38:45.319] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@25926383 into net.minecraft.network.Connection@7aead366
+[13Aug2025 02:38:55.317] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@51fc70fc into net.minecraft.network.Connection@7aead366
+[13Aug2025 02:38:55.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.52.28.12:51373] logged in with entity id 65845 at (621.2917238108239, -56.0, 405.8097197306725)
+[13Aug2025 02:38:55.330] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:38:55.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:38:55.370] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:38:55.371] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:39:00.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[13Aug2025 02:39:00.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:40:34.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> bro
+[13Aug2025 02:40:39.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dime
+[13Aug2025 02:40:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> encontre la casa de diego
+[13Aug2025 02:40:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ese es mi gao
+[13Aug2025 02:41:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> sabes si se molestara si encantara algo en su casa
+[13Aug2025 02:41:12.362] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:41:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> a este es el tuyo
+[13Aug2025 02:41:20.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[13Aug2025 02:41:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[13Aug2025 02:41:52.194] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@374e4172 into net.minecraft.network.Connection@c61a36d
+[13Aug2025 02:41:59.548] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@6f90c5ff into net.minecraft.network.Connection@c61a36d
+[13Aug2025 02:41:59.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.91.78.168:33221] logged in with entity id 67314 at (621.2917238108239, -56.0, 405.8097197306725)
+[13Aug2025 02:41:59.562] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:41:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:41:59.589] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:41:59.589] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:08.065] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5fbb072c into net.minecraft.network.Connection@1fcac00e
+[13Aug2025 02:42:13.964] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@39184cc9 into net.minecraft.network.Connection@1fcac00e
+[13Aug2025 02:42:13.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.156.11.16:39351] logged in with entity id 67794 at (416.61541674098606, 82.0, 608.8985659647936)
+[13Aug2025 02:42:13.989] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:42:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[13Aug2025 02:42:14.027] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.027] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.028] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.029] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:14.030] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:42:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> como te decia ahi vivo yo y ariel
+[13Aug2025 02:42:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> bro te molestas si encanto algo?
+[13Aug2025 02:42:44.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no
+[13Aug2025 02:42:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> vale gracias
+[13Aug2025 02:44:38.565] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:44:44.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 02:44:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:45:03.836] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.836] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.836] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.836] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.859] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.859] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.859] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:03.860] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:04.660] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:18.712] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:28.859] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:31.160] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:45:36.159] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:46:05.688] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@86bc8b0 into net.minecraft.network.Connection@3a2232d1
+[13Aug2025 02:46:12.364] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 02:46:26.914] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7a4c62b5 into net.minecraft.network.Connection@3a2232d1
+[13Aug2025 02:46:26.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.52.28.12:41385] logged in with entity id 69397 at (579.4100486088959, -56.0, 436.30000001192093)
+[13Aug2025 02:46:26.929] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 02:46:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 02:46:26.963] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:46:26.963] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:46:35.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> bro djame matar vaquitas para conseguir dos niveles
+[13Aug2025 02:46:44.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> de hecho
+[13Aug2025 02:46:48.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> sigueme
+[13Aug2025 02:46:57.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 02:46:57.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:47:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> te voy a enseñar una granja de xp de david
+[13Aug2025 02:47:47.309] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:47.309] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:47.309] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:47.309] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:47.310] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:47.310] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.009] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.808] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:47:48.809] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'

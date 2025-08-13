@@ -4863,5 +4863,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-13 02:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-13 02:44:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
