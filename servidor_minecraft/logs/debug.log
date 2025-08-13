@@ -1717,3 +1717,33 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 06:01:14.868] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 06:01:38.331] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 06:04:56.816] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:04:56.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:04:56.818] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:05:05.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Disconnected
+[13Aug2025 06:05:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
+[13Aug2025 06:05:09.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Disconnected
+[13Aug2025 06:05:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:05:53.263] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:05:53.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:05:53.264] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:06:38.309] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 06:07:08.111] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:07:08.112] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 06:08:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego
+[13Aug2025 06:08:31.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> sis
+[13Aug2025 06:08:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> noc si sabias pero en la torre esa q esta alado de tu casa habia un totem
+[13Aug2025 06:08:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> bruhh
+[13Aug2025 06:08:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> en la punta habia un evoquer
+[13Aug2025 06:09:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> a no sabia ostias
+[13Aug2025 06:09:19.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a mi me dio curiosidad y subi
+[13Aug2025 06:09:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y ahi estaba solito
+[13Aug2025 06:09:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> se resbalo y totem gratis
+[13Aug2025 06:11:38.310] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
