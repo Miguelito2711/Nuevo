@@ -1524,3 +1524,21 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 01:05:47.970] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 01:05:47.970] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 01:06:12.373] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 01:09:02.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[13Aug2025 01:09:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[13Aug2025 01:09:41.430] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@77075fcc into net.minecraft.network.Connection@4d651797
+[13Aug2025 01:09:44.871] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1e88dd7e into net.minecraft.network.Connection@4d651797
+[13Aug2025 01:09:44.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.67.234.74:35085] logged in with entity id 6682 at (542.429414297111, 80.0, 375.45130142619377)
+[13Aug2025 01:09:44.890] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, stonecutting, blasting, smithing, crafting, campfire_cooking, smelting]
+[13Aug2025 01:09:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[13Aug2025 01:09:44.919] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:09:44.919] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:09:53.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> EH
+[13Aug2025 01:10:01.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> SSSHHHH
+[13Aug2025 01:10:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> bro?
+[13Aug2025 01:10:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <keibel> WASAP
+[13Aug2025 01:11:12.381] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 01:11:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> y q tiene q ver eso con que apareciste aqui JAJAJA
+[13Aug2025 01:12:56.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:12:56.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:16:12.389] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
