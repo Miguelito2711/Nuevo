@@ -13,6 +13,7 @@
       "snowblossom_grove": "2025-08-12 06:20:09 +0000",
       "maple_woods": "2025-08-12 02:37:32 +0000",
       "crystalline_chasm": "2025-08-12 05:13:22 +0000",
+      "pumpkin_patch": "2025-08-13 02:49:39 +0000",
       "snowy_coniferous_forest": "2025-08-12 06:23:25 +0000",
       "snowy_fir_clearing": "2025-08-12 06:19:32 +0000",
       "erupting_inferno": "2025-08-12 04:51:18 +0000",
@@ -202,6 +203,7 @@
       "golden_apple": "2025-08-12 05:47:21 +0000",
       "cooked_mutton": "2025-08-13 02:28:16 +0000",
       "cooked_cod": "2025-08-12 06:57:53 +0000",
+      "cooked_beef": "2025-08-13 02:53:22 +0000",
       "baked_potato": "2025-08-12 03:04:19 +0000"
     },
     "done": false
@@ -556,6 +558,7 @@
       "minecraft:magma_cube": "2025-08-13 02:01:53 +0000",
       "minecraft:spider": "2025-08-12 07:07:37 +0000",
       "minecraft:zombie": "2025-08-12 03:39:36 +0000",
+      "minecraft:creeper": "2025-08-13 02:52:16 +0000",
       "minecraft:zombie_villager": "2025-08-13 02:25:10 +0000",
       "minecraft:slime": "2025-08-12 06:21:00 +0000",
       "minecraft:hoglin": "2025-08-13 01:58:57 +0000"
