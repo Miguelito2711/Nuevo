@@ -258,3 +258,26 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 01:11:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> y q tiene q ver eso con que apareciste aqui JAJAJA
 [13Aug2025 01:12:56.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 01:12:56.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:17:20.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 01:17:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 01:20:05.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.110.33.226:55527] logged in with entity id 12825 at (625.9857720322692, -48.0, 325.54418122579096)
+[13Aug2025 01:20:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 01:20:05.526] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:20:05.526] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:20:35.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 01:20:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 01:21:50.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.110.33.226:48671] logged in with entity id 14148 at (625.9857720322692, -48.0, 325.54418122579096)
+[13Aug2025 01:21:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 01:21:50.542] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:21:50.543] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:24:35.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 01:24:35.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 01:25:16.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: keibel lost connection: Disconnected
+[13Aug2025 01:25:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel left the game
+[13Aug2025 01:25:29.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: keibel[/127.67.234.74:47183] logged in with entity id 16534 at (79.05000001192093, 71.0, 597.3249999880791)
+[13Aug2025 01:25:29.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel joined the game
+[13Aug2025 01:25:29.545] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:25:29.546] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 01:25:48.916] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e74ec4b[id=3d56e746-2df6-3007-b605-114e1bdb6700,name=tabiogamers,properties={}] lost connection: Timed out
+[13Aug2025 01:26:22.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel was slain by Piglin
+[13Aug2025 01:26:44.532] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
