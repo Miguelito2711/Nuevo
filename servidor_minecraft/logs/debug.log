@@ -2009,3 +2009,19 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 07:23:59.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
 [13Aug2025 07:23:59.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-34, z=-78} BlockPos{x=999, y=-35, z=-78}
 [13Aug2025 07:24:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> por aqui sigue
+[13Aug2025 07:24:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> corre
+[13Aug2025 07:25:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> los subtitulos me dijerom warden se aproxima
+[13Aug2025 07:25:32.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> hay un bulto
+[13Aug2025 07:25:37.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya creo q se debe haber ido
+[13Aug2025 07:26:38.322] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[13Aug2025 07:27:05.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was obliterated by a sonically-charged shriek
+[13Aug2025 07:27:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay dio mio
+[13Aug2025 07:27:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> habian 3 chilladores en ves de 1
+[13Aug2025 07:27:40.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=116, z=294} BlockPos{x=297, y=114, z=292}
+[13Aug2025 07:29:51.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> ya se fue
+[13Aug2025 07:30:05.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya casi llego
+[13Aug2025 07:30:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <desgo> vuelvo en 5min
+[13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: Disconnected
+[13Aug2025 07:30:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[13Aug2025 07:30:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[13Aug2025 07:31:38.303] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
