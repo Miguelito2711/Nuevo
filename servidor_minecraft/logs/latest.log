@@ -971,3 +971,156 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [13Aug2025 02:57:46.555] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 02:57:47.663] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [13Aug2025 02:58:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa se me bugueo la mochila y se me duplico wtf
+[13Aug2025 02:58:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> primera vez q el lag hace algo bueno
+[13Aug2025 02:58:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> a mi me paso ayer con una pala
+[13Aug2025 02:58:18.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 02:58:18.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 02:58:34.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> dasme la mochilaaa duplicada
+[13Aug2025 02:58:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> lo mejor de todo fue q se me duplico la mochila de netherite
+[13Aug2025 02:58:53.458] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:58:53.458] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:58:53.458] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:58:53.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:05.921] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=34, stateId=1, slotNum=140, buttonNum=0, clickType=QUICK_MOVE, changedSlots={158=>ActualItem[item=Reference{ResourceKey[minecraft:item / sophisticatedbackpacks:tank_upgrade]=sophisticatedbackpacks:tank_upgrade}, count=1, components=HashedPatchMap[addedComponents={sophisticatedcore:fluid_contents=632633416}, removedComponents=[]]], 140=><empty>}, carriedItem=<empty>], suppressing error
+java.lang.IndexOutOfBoundsException: Index -16 out of bounds for length 22
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.core.NonNullList.get(NonNullList.java:66) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/sophisticatedcore@1.3.59/net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.setRemoteSlotUnsafe(StorageContainerMenuBase.java:1005) ~[sophisticatedcore-1.21.5-1.3.59.1064.jar%23176!/:1.21.5-1.3.59.1064]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1843) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13Aug2025 02:59:11.925] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=34, stateId=162, slotNum=132, buttonNum=0, clickType=QUICK_MOVE, changedSlots={132=><empty>, 139=>ActualItem[item=Reference{ResourceKey[minecraft:item / sophisticatedbackpacks:tank_upgrade]=sophisticatedbackpacks:tank_upgrade}, count=1, components=HashedPatchMap[addedComponents={minecraft:container=-1978007022, sophisticatedcore:fluid_contents=1470112102}, removedComponents=[]]]}, carriedItem=<empty>], suppressing error
+java.lang.IndexOutOfBoundsException: Index -4 out of bounds for length 26
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.core.NonNullList.get(NonNullList.java:66) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/sophisticatedcore@1.3.59/net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.setRemoteSlotUnsafe(StorageContainerMenuBase.java:1005) ~[sophisticatedcore-1.21.5-1.3.59.1064.jar%23176!/:1.21.5-1.3.59.1064]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1843) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13Aug2025 02:59:35.438] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:35.439] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:35.439] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:35.439] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:35.439] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:44.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:44.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:44.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:44.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:44.108] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 02:59:48.270] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:00:00.758] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:00:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el lag se aapoderaa de mi
+[13Aug2025 03:00:37.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> bueno ya vamonos
+[13Aug2025 03:00:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <leiven_222> tu te has encontrado alguna vez un piglin encima de un pollo en el nether?
+[13Aug2025 03:00:51.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> di
+[13Aug2025 03:01:04.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.238.175.144:48713] logged in with entity id 74479 at (615.3057497301697, -56.0, 436.30000001192093)
+[13Aug2025 03:01:04.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 03:01:04.515] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:04.516] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> en el server aparecen varios zombis montados
+[13Aug2025 03:01:32.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:32.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:32.713] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:32.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:32.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:32.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:01:59.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> dale ven
+[13Aug2025 03:02:22.246] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=45, stateId=1, slotNum=145, buttonNum=0, clickType=QUICK_MOVE, changedSlots={145=><empty>, 156=>ActualItem[item=Reference{ResourceKey[minecraft:item / sophisticatedbackpacks:tank_upgrade]=sophisticatedbackpacks:tank_upgrade}, count=1, components=HashedPatchMap[addedComponents={sophisticatedcore:fluid_contents=632633416}, removedComponents=[]]]}, carriedItem=<empty>], suppressing error
+java.lang.IndexOutOfBoundsException: Index -11 out of bounds for length 11
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.core.NonNullList.get(NonNullList.java:66) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/sophisticatedcore@1.3.59/net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.setRemoteSlotUnsafe(StorageContainerMenuBase.java:1005) ~[sophisticatedcore-1.21.5-1.3.59.1064.jar%23176!/:1.21.5-1.3.59.1064]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1843) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13Aug2025 03:02:22.887] [Server thread/ERROR] [net.minecraft.network.protocol.game.ServerPacketListener/]: Failed to handle packet ServerboundContainerClickPacket[containerId=45, stateId=1, slotNum=118, buttonNum=0, clickType=QUICK_MOVE, changedSlots={137=>ActualItem[item=Reference{ResourceKey[minecraft:item / sophisticatedbackpacks:tank_upgrade]=sophisticatedbackpacks:tank_upgrade}, count=1, components=HashedPatchMap[addedComponents={minecraft:container=-1978007022, sophisticatedcore:fluid_contents=1470112102}, removedComponents=[]]], 118=><empty>}, carriedItem=<empty>], suppressing error
+java.lang.IndexOutOfBoundsException: Index -18 out of bounds for length 15
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.core.NonNullList.get(NonNullList.java:66) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/sophisticatedcore@1.3.59/net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.setRemoteSlotUnsafe(StorageContainerMenuBase.java:1005) ~[sophisticatedcore-1.21.5-1.3.59.1064.jar%23176!/:1.21.5-1.3.59.1064]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:1843) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:54) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:14) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:152) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:891) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:874) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:868) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:833) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:841) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:721) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:276) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13Aug2025 03:02:34.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tabiogamers lost connection: Timed out
+[13Aug2025 03:02:34.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers left the game
+[13Aug2025 03:05:45.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tabiogamers[/127.131.168.255:51975] logged in with entity id 76094 at (615.3673097045403, -55.56847615472927, 431.7563500952034)
+[13Aug2025 03:05:45.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tabiogamers joined the game
+[13Aug2025 03:05:45.913] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:05:45.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[13Aug2025 03:08:07.353] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
