@@ -5147,5 +5147,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-14 05:19:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
