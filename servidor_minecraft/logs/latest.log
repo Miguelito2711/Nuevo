@@ -1035,3 +1035,17 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 07:25:07.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 07:30:49.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 07:30:49.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:32:08.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ has made the advancement [Wax Off]
+[14Aug2025 07:35:27.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: You logged in from another location
+[14Aug2025 07:35:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[14Aug2025 07:35:29.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.210.87.172:56535] logged in with entity id 93679 at (944.1823222396554, 132.0, -51.30116504291537)
+[14Aug2025 07:35:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[14Aug2025 07:35:29.669] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.669] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:35:29.734] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:38:42.786] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
