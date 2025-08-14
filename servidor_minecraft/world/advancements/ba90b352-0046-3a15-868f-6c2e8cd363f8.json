@@ -5226,6 +5226,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-14 10:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/who_needs_rockets": {
     "criteria": {
       "who_needs_rockets": "2025-08-14 09:42:15 +0000"
