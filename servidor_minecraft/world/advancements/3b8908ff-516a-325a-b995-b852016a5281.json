@@ -4026,6 +4026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-14 08:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/mace": {
     "criteria": {
       "has_breeze_rod": "2025-08-14 07:26:28 +0000"
@@ -4056,6 +4062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-14 08:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-08-14 07:53:26 +0000"
@@ -4071,6 +4083,18 @@
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-08-14 07:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-14 08:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-14 08:01:25 +0000"
     },
     "done": true
   },
@@ -4173,6 +4197,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-08-14 07:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-08-14 08:01:25 +0000"
     },
     "done": true
   },
