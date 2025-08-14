@@ -1474,3 +1474,23 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 02:50:56.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 02:50:56.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 02:50:56.016] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 02:55:55.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:00:55.230] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:05:55.232] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:09:56.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: leiven_222 lost connection: Timed out
+[14Aug2025 03:09:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 left the game
+[14Aug2025 03:09:56.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 03:10:55.187] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:10:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[14Aug2025 03:10:56.880] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 03:11:07.514] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@3676b4e8 into net.minecraft.network.Connection@73742c42
+[14Aug2025 03:11:11.001] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@42cddc15 into net.minecraft.network.Connection@73742c42
+[14Aug2025 03:11:11.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: leiven_222[/127.28.7.67:35561] logged in with entity id 3599 at (523.935733414185, 73.0, 429.1073456009809)
+[14Aug2025 03:11:11.077] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smoking, blasting, smelting, smithing, crafting, campfire_cooking, stonecutting]
+[14Aug2025 03:11:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: leiven_222 joined the game
+[14Aug2025 03:11:11.217] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 03:11:11.220] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 03:11:11.221] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 03:11:11.221] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 03:11:11.222] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 03:11:11.780] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
