@@ -1754,3 +1754,40 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 05:24:52.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
 [14Aug2025 05:24:52.760] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [14Aug2025 05:27:25.846] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 05:28:18.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=-24, z=-126} BlockPos{x=982, y=-25, z=-125}
+[14Aug2025 05:28:34.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=981, y=-23, z=-126} BlockPos{x=980, y=-23, z=-125}
+[14Aug2025 05:28:40.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=984, y=-19, z=-127} BlockPos{x=984, y=-18, z=-127}
+[14Aug2025 05:28:59.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=989, y=-38, z=-103} BlockPos{x=987, y=-36, z=-104}
+[14Aug2025 05:28:59.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=989, y=-38, z=-103} BlockPos{x=987, y=-36, z=-104}
+[14Aug2025 05:28:59.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=989, y=-38, z=-103} BlockPos{x=987, y=-36, z=-104}
+[14Aug2025 05:29:42.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=928, y=-43, z=-96} BlockPos{x=928, y=-44, z=-96}
+[14Aug2025 05:31:16.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=-33, z=-114} BlockPos{x=997, y=-34, z=-114}
+[14Aug2025 05:31:22.562] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@19efb32f into net.minecraft.network.Connection@386a5dab
+[14Aug2025 05:31:24.152] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@40c2242c into net.minecraft.network.Connection@386a5dab
+[14Aug2025 05:31:24.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.39.243.78:40561] logged in with entity id 32494 at (967.375611298037, -45.0, -361.3060826054576)
+[14Aug2025 05:31:24.175] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, smoking, smelting, blasting, stonecutting, crafting, campfire_cooking]
+[14Aug2025 05:31:24.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[14Aug2025 05:31:24.205] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 05:31:24.205] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 05:31:27.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1005, y=-28, z=-123} BlockPos{x=1007, y=-28, z=-123}
+[14Aug2025 05:31:27.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1005, y=-28, z=-123} BlockPos{x=1007, y=-28, z=-123}
+[14Aug2025 05:32:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> oh dios mio, estas leyendo el chat?
+[14Aug2025 05:32:25.828] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 05:34:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> penee
+[14Aug2025 05:36:26.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=992, y=-37, z=-85} BlockPos{x=992, y=-38, z=-83}
+[14Aug2025 05:36:26.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=992, y=-37, z=-85} BlockPos{x=992, y=-38, z=-83}
+[14Aug2025 05:36:26.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=992, y=-37, z=-85} BlockPos{x=992, y=-38, z=-83}
+[14Aug2025 05:36:26.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=992, y=-37, z=-85} BlockPos{x=992, y=-38, z=-83}
+[14Aug2025 05:36:27.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=995, y=-38, z=-84} BlockPos{x=994, y=-39, z=-83}
+[14Aug2025 05:36:34.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1003, y=-37, z=-80} BlockPos{x=1003, y=-37, z=-79}
+[14Aug2025 05:36:34.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1003, y=-37, z=-80} BlockPos{x=1003, y=-37, z=-79}
+[14Aug2025 05:36:34.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1003, y=-37, z=-78} BlockPos{x=1004, y=-37, z=-78}
+[14Aug2025 05:36:34.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1003, y=-37, z=-78} BlockPos{x=1004, y=-37, z=-78}
+[14Aug2025 05:36:39.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1012, y=-36, z=-74} BlockPos{x=1012, y=-36, z=-75}
+[14Aug2025 05:36:41.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1019, y=-34, z=-70} BlockPos{x=1018, y=-35, z=-70}
+[14Aug2025 05:36:58.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=988, y=-22, z=-135} BlockPos{x=990, y=-22, z=-137}
+[14Aug2025 05:37:09.615] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 05:37:09.615] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 05:37:25.846] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 05:37:41.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=991, y=-48, z=-65} BlockPos{x=991, y=-47, z=-65}
+[14Aug2025 05:38:23.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=996, y=-39, z=-103} BlockPos{x=995, y=-38, z=-103}
