@@ -28,6 +28,7 @@
       "snowy_coniferous_forest": "2025-08-03 05:24:10 +0000",
       "snowy_fir_clearing": "2025-08-03 22:43:15 +0000",
       "glowing_grotto": "2025-08-03 04:28:27 +0000",
+      "gravel_beach": "2025-08-14 10:49:07 +0000",
       "field": "2025-08-03 04:02:11 +0000",
       "undergrowth": "2025-08-03 08:46:46 +0000",
       "overgrown_greens": "2025-08-03 22:27:02 +0000",
@@ -5226,9 +5227,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-14 10:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-14 10:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-08-14 10:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-14 10:49:24 +0000"
     },
     "done": true
   },

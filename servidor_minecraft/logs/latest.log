@@ -1426,3 +1426,5 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 10:44:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
 [14Aug2025 10:44:28.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 10:44:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[14Aug2025 10:46:23.996] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:46:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of morax) moved too quickly! -2.8715636120920465,0.0,9.945479332281025
