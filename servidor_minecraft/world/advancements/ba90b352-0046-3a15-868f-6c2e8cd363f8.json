@@ -14,6 +14,8 @@
       "snowblossom_grove": "2025-08-05 08:18:21 +0000",
       "rocky_shrubland": "2025-08-03 22:24:03 +0000",
       "old_growth_dead_forest": "2025-08-04 08:58:13 +0000",
+      "redwood_forest": "2025-08-14 10:53:00 +0000",
+      "scrubland": "2025-08-14 11:04:58 +0000",
       "visceral_heap": "2025-08-03 09:07:10 +0000",
       "erupting_inferno": "2025-08-08 07:20:15 +0000",
       "seasonal_forest": "2025-08-03 04:21:23 +0000",
@@ -25,6 +27,7 @@
       "crystalline_chasm": "2025-08-03 21:45:09 +0000",
       "pumpkin_patch": "2025-08-03 04:18:25 +0000",
       "grassland": "2025-08-03 22:30:38 +0000",
+      "prairie": "2025-08-14 11:05:15 +0000",
       "snowy_coniferous_forest": "2025-08-03 05:24:10 +0000",
       "snowy_fir_clearing": "2025-08-03 22:43:15 +0000",
       "glowing_grotto": "2025-08-03 04:28:27 +0000",
@@ -867,6 +870,7 @@
       "minecraft:forest": "2025-08-03 22:38:51 +0000",
       "minecraft:taiga": "2025-08-03 22:16:42 +0000",
       "minecraft:river": "2025-08-03 04:20:38 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-14 11:03:51 +0000",
       "minecraft:stony_shore": "2025-08-03 22:30:33 +0000",
       "minecraft:lush_caves": "2025-08-04 09:45:46 +0000",
       "minecraft:snowy_taiga": "2025-08-03 22:42:45 +0000",
@@ -874,6 +878,7 @@
       "minecraft:frozen_ocean": "2025-08-05 08:21:49 +0000",
       "minecraft:frozen_river": "2025-08-03 06:49:51 +0000",
       "minecraft:deep_dark": "2025-08-04 09:33:17 +0000",
+      "minecraft:ocean": "2025-08-14 11:03:14 +0000",
       "minecraft:swamp": "2025-08-03 22:13:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-03 22:25:38 +0000",
       "minecraft:snowy_beach": "2025-08-05 08:19:43 +0000",
@@ -5248,6 +5253,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-08-14 10:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-14 11:10:54 +0000"
     },
     "done": true
   },
