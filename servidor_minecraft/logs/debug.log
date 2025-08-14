@@ -2802,3 +2802,27 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 10:31:25.709] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 10:32:25.821] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [14Aug2025 10:33:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[14Aug2025 10:35:25.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: desgo lost connection: You logged in from another location
+[14Aug2025 10:35:25.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo left the game
+[14Aug2025 10:35:25.478] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@fb5a9cb into net.minecraft.network.Connection@5c6566b3
+[14Aug2025 10:35:27.129] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@683146b8 into net.minecraft.network.Connection@5c6566b3
+[14Aug2025 10:35:27.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: desgo[/127.53.211.127:53799] logged in with entity id 151427 at (34.30000001192093, 216.0, 584.8397721833431)
+[14Aug2025 10:35:27.147] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/]: Sending 1767 recipes of the following types: [smithing, smoking, smelting, blasting, stonecutting, crafting, campfire_cooking]
+[14Aug2025 10:35:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desgo joined the game
+[14Aug2025 10:35:27.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:35:27.168] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:36:11.158] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:36:13.506] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:36:52.957] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:36:52.958] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:37:01.507] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:37:01.507] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:37:25.801] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 10:40:05.457] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:42:06.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[14Aug2025 10:42:25.801] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[14Aug2025 10:43:35.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> [name:"casa diego", x:909, y:217, z:17, dim:minecraft:overworld]
+[14Aug2025 10:44:06.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[14Aug2025 10:44:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[14Aug2025 10:44:28.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 10:44:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
