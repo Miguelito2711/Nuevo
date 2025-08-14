@@ -8,6 +8,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "forested_field": "2025-08-05 06:34:38 +0000",
+      "spider_nest": "2025-08-14 04:43:51 +0000",
       "muskeg": "2025-08-06 07:02:31 +0000",
       "maple_woods": "2025-08-05 06:30:50 +0000",
       "crystalline_chasm": "2025-08-08 07:33:54 +0000",
@@ -16,6 +17,7 @@
       "snowy_coniferous_forest": "2025-08-05 06:35:02 +0000",
       "snowy_fir_clearing": "2025-08-05 06:40:08 +0000",
       "erupting_inferno": "2025-08-08 05:42:17 +0000",
+      "glowing_grotto": "2025-08-14 04:45:08 +0000",
       "field": "2025-08-05 06:30:40 +0000",
       "undergrowth": "2025-08-08 06:12:28 +0000",
       "seasonal_forest": "2025-08-06 07:06:54 +0000",
@@ -173,6 +175,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-08-05 06:35:00 +0000",
+      "minecraft:deep_dark": "2025-08-14 04:47:16 +0000",
       "minecraft:river": "2025-08-05 06:31:19 +0000",
       "minecraft:swamp": "2025-08-06 04:56:21 +0000",
       "minecraft:snowy_plains": "2025-08-06 07:01:59 +0000",
@@ -1146,6 +1149,7 @@
       "minecraft:ravager": "2025-08-08 06:37:02 +0000",
       "minecraft:ghast": "2025-08-08 06:12:45 +0000",
       "minecraft:hoglin": "2025-08-08 05:55:09 +0000",
+      "minecraft:cave_spider": "2025-08-14 04:44:44 +0000",
       "minecraft:piglin": "2025-08-08 05:47:59 +0000",
       "minecraft:vindicator": "2025-08-08 06:37:56 +0000",
       "minecraft:magma_cube": "2025-08-08 06:01:34 +0000",
