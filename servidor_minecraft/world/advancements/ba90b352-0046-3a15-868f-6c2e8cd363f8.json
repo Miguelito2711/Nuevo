@@ -5147,6 +5147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-14 05:19:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
       "has_brimstone": "2025-08-14 06:11:50 +0000"
@@ -5162,12 +5168,6 @@
   "minecraft:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-14 06:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-08-14 05:19:22 +0000"
     },
     "done": true
   },
@@ -5216,6 +5216,12 @@
   "minecraft:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-08-14 06:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-08-14 06:55:07 +0000"
     },
     "done": true
   },

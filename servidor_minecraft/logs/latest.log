@@ -788,3 +788,228 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 06:49:24.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=839, y=-52, z=-295} BlockPos{x=840, y=-52, z=-296}
 [14Aug2025 06:49:24.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=839, y=-52, z=-295} BlockPos{x=840, y=-52, z=-296}
 [14Aug2025 06:50:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ was obliterated by a sonically-charged shriek
+[14Aug2025 06:50:43.919] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:43.920] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:55.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:50:55.817] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:51:33.101] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:52:52.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=862, y=-48, z=-323} BlockPos{x=861, y=-48, z=-324}
+[14Aug2025 06:52:52.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=-48, z=-323} BlockPos{x=861, y=-48, z=-324}
+[14Aug2025 06:52:52.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=-47, z=-323} BlockPos{x=861, y=-48, z=-324}
+[14Aug2025 06:52:57.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=869, y=-47, z=-323} BlockPos{x=869, y=-48, z=-324}
+[14Aug2025 06:53:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> D4C
+[14Aug2025 06:53:16.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=878, y=-52, z=-320} BlockPos{x=879, y=-52, z=-320}
+[14Aug2025 06:53:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported _Asriel_ to morax
+[14Aug2025 06:53:22.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ moved wrongly!
+[14Aug2025 06:53:36.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> LOVE TRAIN
+[14Aug2025 06:53:48.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> gracias papa dio
+[14Aug2025 06:53:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_Asriel_> el cadaver santo me hizo tp
+[14Aug2025 06:54:04.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=-47, z=-301} BlockPos{x=863, y=-47, z=-299}
+[14Aug2025 06:54:17.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=853, y=-53, z=-277} BlockPos{x=839, y=-48, z=-258}
+[14Aug2025 06:54:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[14Aug2025 06:54:24.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=839, y=-50, z=-293} BlockPos{x=839, y=-51, z=-292}
+[14Aug2025 06:54:28.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=-47, z=-260} BlockPos{x=832, y=-47, z=-259}
+[14Aug2025 06:54:40.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:54:40.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:54:51.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to _Asriel_: no lo vi pero hasta por la consola se sintio epico
+[14Aug2025 06:56:51.162] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.163] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:56:51.164] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 06:57:09.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=868, y=-50, z=-312} BlockPos{x=867, y=-50, z=-312}
+[14Aug2025 06:59:01.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=901, y=-49, z=-278} BlockPos{x=900, y=-50, z=-279}
+[14Aug2025 06:59:28.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=931, y=-52, z=-283} BlockPos{x=931, y=-53, z=-282}
+[14Aug2025 07:00:59.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=953, y=-52, z=-306} BlockPos{x=953, y=-52, z=-307}
+[14Aug2025 07:00:59.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=953, y=-50, z=-306} BlockPos{x=952, y=-51, z=-306}
+[14Aug2025 07:01:02.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=953, y=-49, z=-309} BlockPos{x=953, y=-49, z=-310}
+[14Aug2025 07:01:02.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=953, y=-49, z=-309} BlockPos{x=953, y=-49, z=-310}
+[14Aug2025 07:02:01.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=956, y=-44, z=-259} BlockPos{x=957, y=-44, z=-260}
+[14Aug2025 07:02:36.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=-51, z=-334} BlockPos{x=923, y=-51, z=-333}
+[14Aug2025 07:02:51.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=-50, z=-328} BlockPos{x=912, y=-51, z=-329}
+[14Aug2025 07:03:05.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=-52, z=-339} BlockPos{x=845, y=-52, z=-339}
+[14Aug2025 07:03:05.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=-45, z=-284} BlockPos{x=908, y=-46, z=-284}
+[14Aug2025 07:03:17.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=843, y=-48, z=-337} BlockPos{x=844, y=-49, z=-337}
+[14Aug2025 07:03:43.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=-52, z=-271} BlockPos{x=883, y=-52, z=-272}
+[14Aug2025 07:04:05.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=-52, z=-335} BlockPos{x=826, y=-52, z=-335}
+[14Aug2025 07:04:26.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=813, y=-44, z=-327} BlockPos{x=812, y=-48, z=-327}
+[14Aug2025 07:04:29.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=806, y=-50, z=-326} BlockPos{x=807, y=-51, z=-327}
+[14Aug2025 07:04:47.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=-54, z=-304} BlockPos{x=796, y=-55, z=-303}
+[14Aug2025 07:04:59.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=800, y=-47, z=-294} BlockPos{x=801, y=-47, z=-294}
+[14Aug2025 07:05:03.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=-46, z=-293} BlockPos{x=818, y=-46, z=-293}
+[14Aug2025 07:05:03.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=-46, z=-293} BlockPos{x=818, y=-46, z=-293}
+[14Aug2025 07:05:20.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=788, y=-49, z=-294} BlockPos{x=790, y=-47, z=-294}
+[14Aug2025 07:05:26.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=780, y=-48, z=-295} BlockPos{x=781, y=-47, z=-295}
+[14Aug2025 07:05:26.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=780, y=-48, z=-295} BlockPos{x=781, y=-47, z=-295}
+[14Aug2025 07:05:28.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=786, y=-49, z=-294} BlockPos{x=785, y=-48, z=-294}
+[14Aug2025 07:05:32.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=758, y=-53, z=-296} BlockPos{x=758, y=-54, z=-296}
+[14Aug2025 07:05:32.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:32.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:32.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:05:33.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=773, y=-51, z=-295} BlockPos{x=774, y=-51, z=-295}
+[14Aug2025 07:06:34.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=761, y=-48, z=-294} BlockPos{x=760, y=-48, z=-294}
+[14Aug2025 07:06:59.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=-53, z=-308} BlockPos{x=735, y=-54, z=-308}
+[14Aug2025 07:07:14.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-51, z=-316} BlockPos{x=729, y=-52, z=-316}
+[14Aug2025 07:07:21.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-48, z=-315} BlockPos{x=730, y=-49, z=-316}
+[14Aug2025 07:07:21.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-49, z=-316} BlockPos{x=729, y=-49, z=-316}
+[14Aug2025 07:07:21.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-49, z=-316} BlockPos{x=729, y=-49, z=-316}
+[14Aug2025 07:07:22.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-50, z=-318} BlockPos{x=732, y=-50, z=-319}
+[14Aug2025 07:07:31.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=-54, z=-318} BlockPos{x=725, y=-55, z=-318}
+[14Aug2025 07:07:33.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=-53, z=-309} BlockPos{x=716, y=-53, z=-309}
+[14Aug2025 07:07:34.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=-53, z=-309} BlockPos{x=714, y=-53, z=-307}
+[14Aug2025 07:07:51.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=707, y=-54, z=-312} BlockPos{x=708, y=-55, z=-312}
+[14Aug2025 07:07:52.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=705, y=-55, z=-313} BlockPos{x=705, y=-56, z=-314}
+[14Aug2025 07:07:52.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=705, y=-55, z=-313} BlockPos{x=705, y=-56, z=-314}
+[14Aug2025 07:07:52.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=704, y=-55, z=-314} BlockPos{x=704, y=-56, z=-313}
+[14Aug2025 07:07:52.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=704, y=-55, z=-314} BlockPos{x=704, y=-56, z=-313}
+[14Aug2025 07:07:52.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=-55, z=-313} BlockPos{x=703, y=-56, z=-314}
+[14Aug2025 07:07:52.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=-55, z=-313} BlockPos{x=703, y=-56, z=-314}
+[14Aug2025 07:07:53.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=703, y=-55, z=-313} BlockPos{x=703, y=-56, z=-314}
+[14Aug2025 07:07:55.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=696, y=-55, z=-315} BlockPos{x=696, y=-56, z=-314}
+[14Aug2025 07:08:17.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=658, y=-55, z=-342} BlockPos{x=659, y=-55, z=-342}
+[14Aug2025 07:08:17.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=658, y=-55, z=-342} BlockPos{x=659, y=-55, z=-342}
+[14Aug2025 07:08:17.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=658, y=-55, z=-342} BlockPos{x=659, y=-55, z=-342}
+[14Aug2025 07:08:17.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=658, y=-55, z=-342} BlockPos{x=659, y=-55, z=-342}
+[14Aug2025 07:08:32.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=-55, z=-366} BlockPos{x=644, y=-55, z=-366}
+[14Aug2025 07:08:32.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=643, y=-55, z=-366} BlockPos{x=644, y=-55, z=-366}
+[14Aug2025 07:08:36.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=-54, z=-371} BlockPos{x=638, y=-54, z=-371}
+[14Aug2025 07:08:36.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=-54, z=-371} BlockPos{x=638, y=-54, z=-371}
+[14Aug2025 07:08:36.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=-54, z=-371} BlockPos{x=638, y=-54, z=-371}
+[14Aug2025 07:08:36.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=639, y=-54, z=-371} BlockPos{x=638, y=-54, z=-371}
+[14Aug2025 07:08:37.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=-55, z=-374} BlockPos{x=639, y=-54, z=-374}
+[14Aug2025 07:08:37.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=638, y=-55, z=-374} BlockPos{x=639, y=-54, z=-374}
+[14Aug2025 07:08:54.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=657, y=-53, z=-413} BlockPos{x=657, y=-54, z=-411}
+[14Aug2025 07:09:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> diego
+[14Aug2025 07:09:39.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=620, y=-54, z=-386} BlockPos{x=620, y=-53, z=-385}
+[14Aug2025 07:10:04.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=644, y=-51, z=-383} BlockPos{x=647, y=-52, z=-382}
+[14Aug2025 07:10:06.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=636, y=-50, z=-386} BlockPos{x=635, y=-50, z=-386}
+[14Aug2025 07:10:06.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=636, y=-50, z=-386} BlockPos{x=635, y=-50, z=-386}
+[14Aug2025 07:10:11.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=645, y=-50, z=-380} BlockPos{x=643, y=-50, z=-381}
+[14Aug2025 07:10:18.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=656, y=-50, z=-413} BlockPos{x=657, y=-51, z=-413}
+[14Aug2025 07:10:18.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=656, y=-50, z=-413} BlockPos{x=657, y=-51, z=-413}
+[14Aug2025 07:10:59.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=666, y=-53, z=-396} BlockPos{x=666, y=-53, z=-395}
+[14Aug2025 07:10:59.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=666, y=-53, z=-396} BlockPos{x=666, y=-53, z=-395}
+[14Aug2025 07:10:59.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=666, y=-53, z=-396} BlockPos{x=666, y=-53, z=-395}
+[14Aug2025 07:10:59.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=666, y=-53, z=-396} BlockPos{x=666, y=-53, z=-395}
+[14Aug2025 07:11:31.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=674, y=-51, z=-445} BlockPos{x=673, y=-52, z=-446}
+[14Aug2025 07:11:42.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=672, y=-51, z=-397} BlockPos{x=672, y=-51, z=-395}
+[14Aug2025 07:13:27.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=661, y=-49, z=-419} BlockPos{x=660, y=-49, z=-419}
+[14Aug2025 07:14:07.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Asriel_ lost connection: Disconnected
+[14Aug2025 07:14:07.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ left the game
+[14Aug2025 07:14:13.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=668, y=-55, z=-355} BlockPos{x=669, y=-55, z=-355}
+[14Aug2025 07:14:13.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=668, y=-55, z=-355} BlockPos{x=669, y=-55, z=-355}
+[14Aug2025 07:14:37.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Asriel_[/127.165.226.70:33481] logged in with entity id 86521 at (619.3000000119209, -53.0, -391.69999998807907)
+[14Aug2025 07:14:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Asriel_ joined the game
+[14Aug2025 07:14:37.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:14:37.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:14:37.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:14:37.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:14:37.875] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:14:57.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[14Aug2025 07:14:57.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[14Aug2025 07:15:31.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.199.1.206:49517] logged in with entity id 86888 at (686.0418594651411, -52.0, -248.59539211259903)
+[14Aug2025 07:15:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[14Aug2025 07:15:31.249] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.249] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.249] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.249] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.249] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.250] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:31.251] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:15:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax burned to death
+[14Aug2025 07:18:45.462] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:45.463] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:45.463] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:45.463] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:45.463] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:53.612] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:53.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:53.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:53.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:53.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:55.020] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:55.020] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:55.020] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:55.021] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:55.021] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:57.714] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.863] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:58.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:18:59.864] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:04.563] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:04.564] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.313] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.314] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:30.314] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.613] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:41.614] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.763] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:43.764] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:44.212] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:44.212] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:44.212] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:44.212] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:19:44.212] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:27.914] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:27.915] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 07:20:40.413] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
