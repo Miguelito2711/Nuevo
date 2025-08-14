@@ -1469,3 +1469,4 @@ Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/Spa
 [14Aug2025 11:13:33.460] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 11:13:33.460] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [14Aug2025 11:13:33.460] [Server thread/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[14Aug2025 11:15:55.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/163059, l='ServerLevel[world]', x=2227.30, y=63.00, z=1829.30] died, message: 'Librarian was slain by morax'
